@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T14:27:51Z",
+            "last_commit": "2026-08-16T10:03:11Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46499
+            "stars": 46509
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T04:34:43Z",
+            "last_commit": "2026-08-16T00:26:16Z",
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43520
+            "stars": 43528
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T13:00:25Z",
+            "last_commit": "2026-08-16T09:40:10Z",
             "owner": "kestra-io",
             "repo": "kestra",
-            "stars": 27812
+            "stars": 27821
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-07-18T11:15:46Z",
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18763
+            "stars": 18765
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-14T19:59:16Z",
             "owner": "dagster-io",
             "repo": "dagster",
-            "stars": 15996
+            "stars": 16000
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-10T22:03:29Z",
             "owner": "dask",
             "repo": "dask",
-            "stars": 13888
+            "stars": 13889
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-08-12T06:50:46Z",
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11324
+            "stars": 11327
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-08-14T17:50:55Z",
             "owner": "kedro-org",
             "repo": "kedro",
-            "stars": 10953
+            "stars": 10955
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-08-13T09:27:06Z",
             "owner": "apache",
             "repo": "burr",
-            "stars": 2511
+            "stars": 2512
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-08-10T16:11:05Z",
             "owner": "sartography",
             "repo": "SpiffWorkflow",
-            "stars": 1911
+            "stars": 1910
           }
         },
         {
@@ -266,7 +266,7 @@
             "last_commit": "2024-10-08T03:31:54Z",
             "owner": "couler-proj",
             "repo": "couler",
-            "stars": 944
+            "stars": 943
           }
         },
         {
@@ -431,7 +431,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T13:31:39Z",
+            "last_commit": "2026-08-16T08:08:01Z",
             "owner": "It4innovations",
             "repo": "hyperqueue",
             "stars": 551
@@ -509,20 +509,6 @@
         },
         {
           "node_type": "item",
-          "title": "Mistral",
-          "description": "Python based workflow engine by the Open Stack project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T00:23:19Z",
-            "owner": "openstack",
-            "repo": "mistral",
-            "stars": 309
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Popper",
           "description": "YAML based container-native workflow engine supporting Docker, Singularity, Vagrant VMs with Docker daemon in VM, and local host.",
           "children": [],
@@ -532,6 +518,20 @@
             "last_commit": "2022-03-29T22:02:27Z",
             "owner": "getpopper",
             "repo": "popper",
+            "stars": 310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mistral",
+          "description": "Python based workflow engine by the Open Stack project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T00:23:19Z",
+            "owner": "openstack",
+            "repo": "mistral",
             "stars": 309
           }
         },
@@ -557,7 +557,7 @@
           "repo_info": {
             "archived": false,
             "language": "Groovy",
-            "last_commit": "2026-07-22T09:34:24Z",
+            "last_commit": "2026-08-16T12:55:36Z",
             "owner": "ssadedin",
             "repo": "bpipe",
             "stars": 242
@@ -627,7 +627,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T14:47:53Z",
+            "last_commit": "2026-08-15T15:12:43Z",
             "owner": "pytask-dev",
             "repo": "pytask",
             "stars": 145
@@ -1285,7 +1285,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-04T04:35:33Z",
+            "last_commit": "2026-08-16T07:16:27Z",
             "owner": "dotflow-io",
             "repo": "dotflow",
             "stars": 9
@@ -1353,10 +1353,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T14:46:16Z",
+            "last_commit": "2026-08-16T14:42:42Z",
             "owner": "windmill-labs",
             "repo": "windmill",
-            "stars": 17550
+            "stars": 17555
           }
         },
         {
@@ -1395,7 +1395,7 @@
           "repo_info": {
             "archived": false,
             "language": "MDX",
-            "last_commit": "2026-08-11T09:43:20Z",
+            "last_commit": "2026-08-15T19:13:40Z",
             "owner": "polyaxon",
             "repo": "polyaxon",
             "stars": 3718
@@ -1569,7 +1569,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Workflow Language",
-            "last_commit": "2026-08-15T12:40:35Z",
+            "last_commit": "2026-08-15T20:12:33Z",
             "owner": "common-workflow-language",
             "repo": "common-workflow-language",
             "stars": 1480
@@ -1617,7 +1617,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-05T16:18:16Z",
+            "last_commit": "2026-08-16T07:46:57Z",
             "owner": "treeverse",
             "repo": "lakeFS",
             "stars": 5486
@@ -1691,10 +1691,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T11:06:45Z",
+            "last_commit": "2026-08-16T05:33:51Z",
             "owner": "pathwaycom",
             "repo": "pathway",
-            "stars": 62459
+            "stars": 62455
           }
         },
         {
@@ -1708,7 +1708,7 @@
             "last_commit": "2026-08-14T22:06:55Z",
             "owner": "cadence-workflow",
             "repo": "cadence",
-            "stars": 9403
+            "stars": 9404
           }
         },
         {
@@ -1719,10 +1719,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T09:54:30Z",
+            "last_commit": "2026-08-16T08:13:40Z",
             "owner": "bruin-data",
             "repo": "bruin",
-            "stars": 1666
+            "stars": 1667
           }
         },
         {
@@ -1770,7 +1770,7 @@
             "last_commit": "2026-08-14T17:47:12Z",
             "owner": "argoproj",
             "repo": "argo-workflows",
-            "stars": 16899
+            "stars": 16902
           }
         },
         {
@@ -1804,7 +1804,7 @@
             "last_commit": "2026-08-12T23:47:50Z",
             "owner": "casey",
             "repo": "just",
-            "stars": 35301
+            "stars": 35312
           }
         },
         {
@@ -1866,7 +1866,7 @@
             "last_commit": "2026-04-06T08:20:52Z",
             "owner": "meirwah",
             "repo": "awesome-workflow-engines",
-            "stars": 7913
+            "stars": 7912
           }
         },
         {
@@ -1891,7 +1891,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T06:07:27Z",
+            "last_commit": "2026-08-15T18:31:28Z",
             "owner": "manuzhang",
             "repo": "awesome-streaming",
             "stars": 3005
@@ -1905,7 +1905,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Workflow Language",
-            "last_commit": "2026-08-15T12:40:35Z",
+            "last_commit": "2026-08-15T20:12:33Z",
             "owner": "common-workflow-language",
             "repo": "common-workflow-language",
             "stars": 1480
@@ -1916,7 +1916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:59:58.533Z",
+    "last_updated": "2026-08-16T14:59:52.821Z",
     "original_repository": "pditommaso/awesome-pipeline",
     "original_repository_sha": "348f3ae346a586f61b5264c0859e25f57557ea42",
     "enhanced_repository": "enhansome/enhansome-pipeline",
