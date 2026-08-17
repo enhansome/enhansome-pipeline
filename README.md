@@ -1,21 +1,21 @@
 # Awesome Pipeline with stars
 
-A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,349 | 🐛 269 | 📅 2024-03-26
+A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,349 | 🐛 270 | 📅 2024-03-26
 
 ## Pipeline frameworks & libraries
 
-* [Airflow](https://github.com/airbnb/airflow) ⭐ 46,509 | 🐛 1,872 | 🌐 Python | 📅 2026-08-16 - Python-based workflow system created by AirBnb.
-* [Ray](https://github.com/ray-project/ray) ⭐ 43,528 | 🐛 3,483 | 🌐 Python | 📅 2026-08-16 - Flexible, high-performance distributed Python execution framework.
-* [Kestra](https://github.com/kestra-io/kestra) ⭐ 27,821 | 🐛 548 | 🌐 Java | 📅 2026-08-16 - Open source data orchestration and scheduling platform with declarative syntax.
-* [Luigi](https://github.com/spotify/luigi) ⭐ 18,765 | 🐛 166 | 🌐 Python | 📅 2026-07-18 - Python module that helps you build complex pipelines of batch jobs.
-* [Dagster](https://github.com/dagster-io/dagster) ⭐ 16,000 | 🐛 2,592 | 🌐 Python | 📅 2026-08-14 - Python-based API for defining DAGs that interfaces with popular workflow managers for building data applications.
-* [Dask](https://github.com/dask/dask) ⭐ 13,889 | 🐛 1,310 | 🌐 Python | 📅 2026-08-10 - Dask is a flexible parallel computing library for analytics.
-* [Cocoindex](https://github.com/cocoindex-io/cocoindex) ⭐ 11,327 | 🐛 72 | 🌐 Rust | 📅 2026-08-12 - ETL framework to build fresh index.
-* [Kedro](https://github.com/quantumblacklabs/kedro) ⭐ 10,955 | 🐛 151 | 🌐 Python | 📅 2026-08-14 - Workflow development tool that helps you build data pipelines.
-* [Hamilton](https://github.com/dagworks-inc/hamilton) ⭐ 2,562 | 🐛 149 | 🌐 Jupyter Notebook | 📅 2026-08-13 - A python micro-framework for describing dataflows; runs anywhere python runs.
-* [Burr](https://github.com/dagworks-inc/burr) ⭐ 2,512 | 🐛 97 | 🌐 Python | 📅 2026-08-13 - Python based lightweight graph (i.e. can do loops and conditional branching, and not just DAGs) orchestrator.
-* [Mara](https://github.com/mara/data-integration) ⭐ 2,090 | 🐛 26 | 🌐 Python | 📅 2023-12-15 -  A lightweight, opinionated ETL framework, halfway between plain scripts and Apache Airflow.
-* [Spiff](https://github.com/knipknap/SpiffWorkflow) ⭐ 1,910 | 🐛 8 | 🌐 Python | 📅 2026-08-10 - Based on the Workflow Patterns initiative and implemented in Python.
+* [Airflow](https://github.com/airbnb/airflow) ⭐ 46,508 | 🐛 1,876 | 🌐 Python | 📅 2026-08-17 - Python-based workflow system created by AirBnb.
+* [Ray](https://github.com/ray-project/ray) ⭐ 43,536 | 🐛 3,497 | 🌐 Python | 📅 2026-08-17 - Flexible, high-performance distributed Python execution framework.
+* [Kestra](https://github.com/kestra-io/kestra) ⭐ 27,837 | 🐛 543 | 🌐 Java | 📅 2026-08-17 - Open source data orchestration and scheduling platform with declarative syntax.
+* [Luigi](https://github.com/spotify/luigi) ⭐ 18,763 | 🐛 166 | 🌐 Python | 📅 2026-07-18 - Python module that helps you build complex pipelines of batch jobs.
+* [Dagster](https://github.com/dagster-io/dagster) ⭐ 16,009 | 🐛 2,590 | 🌐 Python | 📅 2026-08-14 - Python-based API for defining DAGs that interfaces with popular workflow managers for building data applications.
+* [Dask](https://github.com/dask/dask) ⭐ 13,891 | 🐛 1,309 | 🌐 Python | 📅 2026-08-17 - Dask is a flexible parallel computing library for analytics.
+* [Cocoindex](https://github.com/cocoindex-io/cocoindex) ⭐ 11,340 | 🐛 73 | 🌐 Rust | 📅 2026-08-17 - ETL framework to build fresh index.
+* [Kedro](https://github.com/quantumblacklabs/kedro) ⭐ 10,955 | 🐛 151 | 🌐 Python | 📅 2026-08-17 - Workflow development tool that helps you build data pipelines.
+* [Hamilton](https://github.com/dagworks-inc/hamilton) ⭐ 2,565 | 🐛 151 | 🌐 Jupyter Notebook | 📅 2026-08-17 - A python micro-framework for describing dataflows; runs anywhere python runs.
+* [Burr](https://github.com/dagworks-inc/burr) ⭐ 2,515 | 🐛 95 | 🌐 Python | 📅 2026-08-17 - Python based lightweight graph (i.e. can do loops and conditional branching, and not just DAGs) orchestrator.
+* [Mara](https://github.com/mara/data-integration) ⭐ 2,089 | 🐛 26 | 🌐 Python | 📅 2023-12-15 -  A lightweight, opinionated ETL framework, halfway between plain scripts and Apache Airflow.
+* [Spiff](https://github.com/knipknap/SpiffWorkflow) ⭐ 1,911 | 🐛 8 | 🌐 Python | 📅 2026-08-10 - Based on the Workflow Patterns initiative and implemented in Python.
 * [Drake](https://github.com/Factual/drake) ⭐ 1,485 | 🐛 83 | 🌐 Clojure | 📅 2022-04-12 - Robust DSL akin to Make, implemented in Clojure.
 * [Drake R package](https://github.com/ropensci/drake) ⭐ 1,339 | 🐛 0 | 🌐 R | 📅 2024-12-04 - Reproducibility and high-performance computing with an easy R-focused interface. Unrelated to [Factual's Drake](https://github.com/factual/drake) ⭐ 1,485 | 🐛 83 | 🌐 Clojure | 📅 2022-04-12. Succeeded by [Targets](https://github.com/ropensci/targets) ⭐ 1,092 | 🐛 0 | 🌐 R | 📅 2026-05-13.
 * [Targets](https://github.com/ropensci/targets) ⭐ 1,092 | 🐛 0 | 🌐 R | 📅 2026-05-13 - Dynamic, function-oriented [Make](https://www.gnu.org/software/make/)-like reproducible pipelines at scale in R.
@@ -23,7 +23,7 @@ A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https
 * [Pinball](https://github.com/pinterest/pinball) ⚠️ Archived - Python based workflow engine by Pinterest.
 * [Reflow](https://github.com/grailbio/reflow) ⭐ 975 | 🐛 28 | 🌐 Go | 📅 2023-10-18 - Language and runtime for distributed, incremental data processing in the cloud.
 * [Couler](https://github.com/couler-proj/couler) ⭐ 943 | 🐛 21 | 🌐 Python | 📅 2024-10-08 - Unified interface for constructing and managing workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
-* [Toil](https://github.com/BD2KGenomics/toil) ⭐ 936 | 🐛 410 | 🌐 Python | 📅 2026-08-13 - Distributed pipeline workflow manager (mostly for genomics).
+* [Toil](https://github.com/BD2KGenomics/toil) ⭐ 936 | 🐛 411 | 🌐 Python | 📅 2026-08-13 - Distributed pipeline workflow manager (mostly for genomics).
 * [Hera](https://github.com/argoproj-labs/hera) ⭐ 927 | 🐛 26 | 🌐 Python | 📅 2026-08-09 - Hera is an Argo Python SDK. Hera aims to make construction and submission of various Argo Project resources easy and accessible to everyone! Hera abstracts away low-level setup details while still maintaining a consistent vocabulary with Argo.
 * [Covalent](https://github.com/AgnostiqHQ/covalent) ⭐ 867 | 🐛 100 | 🌐 Python | 📅 2026-08-10 - Workflow orchestration toolkit for high-performance and quantum computing research and development.
 * [NiPype](https://github.com/nipy/nipype) ⭐ 834 | 🐛 433 | 🌐 Python | 📅 2026-07-20 - Workflows and interfaces for neuroimaging packages.
@@ -33,8 +33,8 @@ A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https
 * [Rain](https://github.com/substantic/rain) ⭐ 760 | 🐛 37 | 🌐 Rust | 📅 2023-03-04 - Framework for large distributed task-based pipelines, written in Rust with Python API.
 * [Scoop](https://github.com/soravux/scoop/) ⭐ 661 | 🐛 34 | 🌐 Python | 📅 2023-03-17 - Scalable Concurrent Operations in Python.
 * [Redun](https://github.com/insitro/redun) ⭐ 597 | 🐛 33 | 🌐 Python | 📅 2026-07-17 - Yet another redundant workflow engine.
-* [AiiDA](https://github.com/aiidateam/aiida-core) ⭐ 577 | 🐛 662 | 🌐 Python | 📅 2026-08-15 - workflow manager with a strong focus on provenance, performance and extensibility.
-* [HyperQueue](https://github.com/It4innovations/hyperqueue) ⭐ 551 | 🐛 56 | 🌐 Rust | 📅 2026-08-16 - HPC-focused task scheduler that automatically assigns tasks to Slurm/PBS allocations and submits them for the user.
+* [AiiDA](https://github.com/aiidateam/aiida-core) ⭐ 577 | 🐛 667 | 🌐 Python | 📅 2026-08-17 - workflow manager with a strong focus on provenance, performance and extensibility.
+* [HyperQueue](https://github.com/It4innovations/hyperqueue) ⭐ 552 | 🐛 56 | 🌐 Rust | 📅 2026-08-16 - HPC-focused task scheduler that automatically assigns tasks to Slurm/PBS allocations and submits them for the user.
 * [PipeFunc](https://github.com/pipefunc/pipefunc) ⭐ 477 | 🐛 75 | 🌐 Python | 📅 2026-08-14 - Lightweight function pipeline (DAG) creation in pure Python for scientific workflows.
 * [Dray](https://github.com/CenturyLinkLabs/dray) ⭐ 385 | 🐛 7 | 🌐 Go | 📅 2020-01-24 - An engine for managing the execution of container-based workflows.
 * [Fission Workflows](https://github.com/fission/fission-workflows) ⭐ 380 | 🐛 62 | 🌐 Go | 📅 2023-03-30 - A fast, lightweight workflow engine for serverless/FaaS functions.
@@ -43,7 +43,7 @@ A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https
 * [Popper](https://github.com/systemslab/popper) ⭐ 310 | 🐛 23 | 🌐 Python | 📅 2022-03-29 - YAML based container-native workflow engine supporting Docker, Singularity, Vagrant VMs with Docker daemon in VM, and local host.
 * [Mistral](https://github.com/openstack/mistral) ⭐ 309 | 🐛 0 | 🌐 Python | 📅 2026-08-14 - Python based workflow engine by the Open Stack project.
 * [Cuneiform](https://github.com/joergen7/cuneiform) ⭐ 252 | 🐛 9 | 🌐 Erlang | 📅 2025-02-07 - Advanced functional workflow language and framework, implemented in Erlang.
-* [Bpipe](https://github.com/ssadedin/bpipe/) ⭐ 242 | 🐛 158 | 🌐 Groovy | 📅 2026-08-16 - Tool for running and managing bioinformatics pipelines.
+* [Bpipe](https://github.com/ssadedin/bpipe/) ⭐ 242 | 🐛 158 | 🌐 Groovy | 📅 2026-08-17 - Tool for running and managing bioinformatics pipelines.
 * [nFlow](https://github.com/NitorCreations/nFlow) ⭐ 237 | 🐛 24 | 🌐 Java | 📅 2026-08-08 - Embeddable JVM-based workflow engine with high availability, fault tolerance, and support for multiple databases. Additional libraries are provided for visualization and REST API.
 * [Consecution](https://github.com/robdmc/consecution) ⭐ 168 | 🐛 6 | 🌐 Python | 📅 2021-02-24 - A Python pipeline abstraction inspired by Apache Storm topologies.
 * [Maestro](https://github.com/LLNL/maestrowf) ⭐ 162 | 🐛 88 | 🌐 Python | 📅 2026-08-13 - YAML based HPC workflow execution tool.
@@ -67,8 +67,8 @@ A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https
 * [Dagr](https://github.com/fulcrumgenomics/dagr) ⚠️ Archived - A scala based DSL and framework for writing and executing bioinformatics pipelines as Directed Acyclic Graphs.
 * [Yapp](https://github.com/picanumber/yapp) ⭐ 70 | 🐛 1 | 🌐 C++ | 📅 2022-10-19 - A C++ parallel pipeline library for stream processing.
 * [AWE](https://github.com/MG-RAST/AWE/) ⭐ 69 | 🐛 1 | 🌐 Go | 📅 2020-10-29 - Workflow and resource management system with CWL support.
-* [StreamFlow](https://github.com/alpha-unito/streamflow) ⭐ 65 | 🐛 29 | 🌐 Python | 📅 2026-08-15 - Container native workflow management system focused on hybrid workflows.
-* [ecFlow](https://github.com/ecmwf/ecflow) ⭐ 64 | 🐛 13 | 🌐 C++ | 📅 2026-08-10 - Workflow manager.
+* [StreamFlow](https://github.com/alpha-unito/streamflow) ⭐ 65 | 🐛 31 | 🌐 Python | 📅 2026-08-17 - Container native workflow management system focused on hybrid workflows.
+* [ecFlow](https://github.com/ecmwf/ecflow) ⭐ 64 | 🐛 15 | 🌐 C++ | 📅 2026-08-10 - Workflow manager.
 * [pyperator](https://github.com/baffelli/pyperator) ⭐ 63 | 🐛 8 | 🌐 Python | 📅 2017-05-11 - Simple push-based python workflow framework using asyncio, supporting recursive networks.
 * [Bioshake](https://github.com/papenfusslab/bioshake) ⭐ 58 | 🐛 3 | 🌐 Haskell | 📅 2019-08-13 - Haskell DSL built on shake with strong typing and EDAM support.
 * [Pwrake](https://github.com/masa16/Pwrake/) ⭐ 57 | 🐛 2 | 🌐 Ruby | 📅 2020-01-16 - Parallel workflow extension for Rake.
@@ -98,7 +98,7 @@ A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https
 * [Dotflow](https://github.com/dotflow-io/dotflow) ⭐ 9 | 🐛 37 | 🌐 Python | 📅 2026-08-16 - Python library for creating pipelines and workflows easily.
 * [Makeit](https://github.com/arni-magnusson/makeit) ⭐ 5 | 🐛 0 | 🌐 R | 📅 2025-03-26 - Run R scripts if needed, based on last modified time.
 * [Conan2](https://github.com/tburdett/Conan2) ⭐ 3 | 🐛 1 | 🌐 Java | 📅 2014-08-04 - Light-weight workflow management application.
-* [TAF](https://github.com/ices-tools-prod/TAF) ⭐ 3 | 🐛 4 | 🌐 R | 📅 2026-06-17 - R package to organize reproducible scientific workflows.
+* [TAF](https://github.com/ices-tools-prod/TAF) ⭐ 3 | 🐛 4 | 🌐 R | 📅 2026-08-17 - R package to organize reproducible scientific workflows.
 * [ActionChain](http://docs.stackstorm.com/actionchain.html) - A workflow system for simple linear success/failure workflows.
 * [Anduril](http://www.anduril.org/anduril/site/) - Component-based workflow framework for scientific data analysis.
 * [Antha](https://www.antha-lang.org/) - High-level language for biology.
@@ -147,8 +147,8 @@ A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https
 
 ## Workflow platforms
 
-* [Windmill](https://github.com/windmill-labs/windmill) ⭐ 17,555 | 🐛 809 | 🌐 Rust | 📅 2026-08-16 - Developer platform and workflow engine to turn scripts into internal tools.
-* [Flyte](https://github.com/lyft/flyte) ⭐ 7,205 | 🐛 164 | 🌐 Go | 📅 2026-08-15 - Container-native, type-safe workflow and pipelines platform for large scale processing and ML.
+* [Windmill](https://github.com/windmill-labs/windmill) ⭐ 17,565 | 🐛 818 | 🌐 Rust | 📅 2026-08-17 - Developer platform and workflow engine to turn scripts into internal tools.
+* [Flyte](https://github.com/lyft/flyte) ⭐ 7,208 | 🐛 168 | 🌐 Go | 📅 2026-08-17 - Container-native, type-safe workflow and pipelines platform for large scale processing and ML.
 * [Orchest](https://github.com/orchest/orchest) ⚠️ Archived - An IDE for Data Science.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) ⭐ 3,718 | 🐛 126 | 🌐 MDX | 📅 2026-08-15 - A platform for machine learning experimentation workflow.
 * [Active Workflow](https://github.com/automaticmode/active_workflow) ⭐ 865 | 🐛 2 | 🌐 Ruby | 📅 2023-04-03 - Polyglot workflows without leaving the comfort of your technology stack.
@@ -156,7 +156,7 @@ A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https
 * [Fireworks](https://github.com/materialsproject/fireworks) ⭐ 424 | 🐛 73 | 🌐 Python | 📅 2026-08-11 - Centralized workflow server for dynamic workflows of high-throughput computations.
 * [Flojoy](https://github.com/flojoy-ai/studio) ⭐ 275 | 🐛 12 | 🌐 Python | 📅 2025-03-30 - Open source visual Python scripting for test, measurement, and robotics control.
 * [Domino](https://github.com/Tauffer-Consulting/domino) ⭐ 210 | 🐛 28 | 🌐 Python | 📅 2026-03-06 - User friendly and open source visual workflow management platform.
-* [Reana](https://github.com/reanahub/reana) ⭐ 152 | 🐛 97 | 🌐 Python | 📅 2026-08-13 - Platform for reusable research data analyses developed by CERN.
+* [Reana](https://github.com/reanahub/reana) ⭐ 152 | 🐛 94 | 🌐 Python | 📅 2026-08-17 - Platform for reusable research data analyses developed by CERN.
 * [omega|ml DataOps Platform](https://github.com/omegaml/omegaml) ⭐ 107 | 🐛 98 | 🌐 Python | 📅 2026-08-10 - Data & model pipeline deployment for humans - integrated, scalable, extensible.
 * [Geoweaver](https://github.com/ESIPFed/Geoweaver) ⭐ 95 | 🐛 41 | 🌐 JavaScript | 📅 2025-12-25 - In-browser tool for data processing workflows with high-performance server support, featuring code history and workflow orchestration.
 * [Butler](http://github.com/llevar/butler) ⭐ 70 | 🐛 4 | 🌐 Python | 📅 2020-02-10 - Framework for running scientific workflows on public and academic clouds.
@@ -211,8 +211,8 @@ A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https
 
 ## ETL & Data orchestration
 
-* [lakeFS](https://github.com/treeverse/lakeFS) ⭐ 5,486 | 🐛 437 | 🌐 Go | 📅 2026-08-16 - Repeatable, atomic and versioned data lake on top of object storage.
-* [Nessie](https://github.com/projectnessie/nessie) ⭐ 1,494 | 🐛 162 | 🌐 Java | 📅 2026-08-15 - Provides Git-like capability & version control for Iceberg Tables, Delta Lake Tables & SQL Views.
+* [lakeFS](https://github.com/treeverse/lakeFS) ⭐ 5,486 | 🐛 438 | 🌐 Go | 📅 2026-08-17 - Repeatable, atomic and versioned data lake on top of object storage.
+* [Nessie](https://github.com/projectnessie/nessie) ⭐ 1,494 | 🐛 162 | 🌐 Java | 📅 2026-08-17 - Provides Git-like capability & version control for Iceberg Tables, Delta Lake Tables & SQL Views.
 * [DataLad](https://datalad.org) - git and git-annex based data version control system with lightweight provenance capture/re-execution support.
 * [DVC](https://dvc.org) - Data version control system for ML project with lightweight pipeline support.
 * [DataScreenIQ](https://github.com/AppDevIQ/datascreeniq-python) - Real-time data quality screening API that returns PASS / WARN / BLOCK verdicts at the ingest                                    boundary before data enters pipelines or warehouses in milliseconds.Python SDK available.
@@ -234,10 +234,10 @@ A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https
 
 ## Extract, transform, load (ETL)
 
-* [Pathway](https://github.com/pathwaycom/pathway/) ⭐ 62,455 | 🐛 35 | 🌐 Python | 📅 2026-08-16 - Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
-* [Cadence](https://github.com/uber/cadence) ⭐ 9,404 | 🐛 181 | 🌐 Go | 📅 2026-08-14 Distributed, scalable, durable, and highly available orchestration engine developed by Uber.
-* [Bruin](https://github.com/bruin-data/bruin) ⭐ 1,667 | 🐛 30 | 🌐 Go | 📅 2026-08-16 - Data pipeline framework supporting SQL and Python in the same DAG. Built-in data quality assertions, cross-database lineage, and incremental processing. Targets data warehouses (BigQuery, Snowflake, Postgres, etc.).
-* [Dataform](https://github.com/dataform-co/dataform) ⭐ 994 | 🐛 114 | 🌐 TypeScript | 📅 2026-08-13 - Dataform is a framework for managing SQL based operations in your data warehouse.
+* [Pathway](https://github.com/pathwaycom/pathway/) ⭐ 62,442 | 🐛 35 | 🌐 Python | 📅 2026-08-17 - Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
+* [Cadence](https://github.com/uber/cadence) ⭐ 9,404 | 🐛 182 | 🌐 Go | 📅 2026-08-14 Distributed, scalable, durable, and highly available orchestration engine developed by Uber.
+* [Bruin](https://github.com/bruin-data/bruin) ⭐ 1,668 | 🐛 31 | 🌐 Go | 📅 2026-08-17 - Data pipeline framework supporting SQL and Python in the same DAG. Built-in data quality assertions, cross-database lineage, and incremental processing. Targets data warehouses (BigQuery, Snowflake, Postgres, etc.).
+* [Dataform](https://github.com/dataform-co/dataform) ⭐ 994 | 🐛 114 | 🌐 TypeScript | 📅 2026-08-17 - Dataform is a framework for managing SQL based operations in your data warehouse.
 * [Substation](https://github.com/brexhq/substation) ⭐ 403 | 🐛 3 | 🌐 Go | 📅 2026-01-20 - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 * [Hevo](https://hevodata.com/integrations/pipeline/) - Hevo is a Fully Automated, No-code Data Pipeline Platform that supports 150+ ready-to-use integrations across Databases, SaaS Applications, Cloud Storage, SDKs, and Streaming Services.
 * [Kiba ETL](http://www.kiba-etl.org) - A data processing & ETL framework for Ruby.
@@ -247,12 +247,12 @@ A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https
 
 ## Continuous Delivery workflows
 
-* [Argo](https://github.com/argoproj/argo) ⭐ 16,902 | 🐛 1,255 | 🌐 Go | 📅 2026-08-14 - Get stuff done with container-native workflows for Kubernetes.
-* [CDS](https://github.com/ovh/cds) ⭐ 4,831 | 🐛 159 | 🌐 Go | 📅 2026-08-14 - A pipeline based Continuous Delivery Service written in Golang.
+* [Argo](https://github.com/argoproj/argo) ⭐ 16,906 | 🐛 1,259 | 🌐 Go | 📅 2026-08-17 - Get stuff done with container-native workflows for Kubernetes.
+* [CDS](https://github.com/ovh/cds) ⭐ 4,833 | 🐛 159 | 🌐 Go | 📅 2026-08-17 - A pipeline based Continuous Delivery Service written in Golang.
 
 ## Build automation tools
 
-* [Just](https://github.com/casey/just) ⭐ 35,312 | 🐛 168 | 🌐 Rust | 📅 2026-08-12 - Command and recipe runner similar to Make, built in Rust.
+* [Just](https://github.com/casey/just) ⭐ 35,326 | 🐛 168 | 🌐 Rust | 📅 2026-08-12 - Command and recipe runner similar to Make, built in Rust.
 * [doit](https://github.com/pydoit/doit) ⭐ 2,079 | 🐛 94 | 🌐 Python | 📅 2026-02-12 - Highly generalized task-management and automation in Python.
 * [Shake](https://github.com/ndmitchell/shake) ⭐ 801 | 🐛 203 | 🌐 Haskell | 📅 2026-01-19 - Define robust build systems akin to GNU Make using Haskell.
 * [Prodmodel](https://github.com/prodmodel/prodmodel) ⭐ 60 | 🐛 8 | 🌐 Python | 📅 2026-04-13 - Build system for data science pipelines.
@@ -276,9 +276,9 @@ A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https
 
 * [Awesome workflow engines](https://github.com/meirwah/awesome-workflow-engines) ⭐ 7,912 | 🐛 69 | 📅 2026-04-06 - Curated list of awesome open source workflow engines.
 * [Awesome ETL](https://github.com/pawl/awesome-etl) ⭐ 3,582 | 🐛 10 | 📅 2026-05-01 - Curated list of notable ETL (extract, transform, load) frameworks, libraries and software.
-* [Awesome streaming](https://github.com/manuzhang/awesome-streaming) ⭐ 3,005 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-15 - Curated list of awesome streaming frameworks, applications.
+* [Awesome streaming](https://github.com/manuzhang/awesome-streaming) ⭐ 3,005 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16 - Curated list of awesome streaming frameworks, applications.
 * [Computational Data Analysis Workflow Systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems) ⭐ 1,480 | 🐛 241 | 🌐 Common Workflow Language | 📅 2026-08-15
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
