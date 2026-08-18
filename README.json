@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T14:55:30Z",
+            "last_commit": "2026-08-18T14:56:19Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46508
+            "stars": 46522
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T14:25:57Z",
+            "last_commit": "2026-08-18T13:07:43Z",
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43536
+            "stars": 43544
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T15:00:26Z",
+            "last_commit": "2026-08-18T15:10:29Z",
             "owner": "kestra-io",
             "repo": "kestra",
-            "stars": 27837
+            "stars": 27851
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-07-18T11:15:46Z",
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18763
+            "stars": 18765
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-14T19:59:16Z",
             "owner": "dagster-io",
             "repo": "dagster",
-            "stars": 16009
+            "stars": 16016
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-17T14:33:18Z",
             "owner": "dask",
             "repo": "dask",
-            "stars": 13891
+            "stars": 13890
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-08-17T13:17:10Z",
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11340
+            "stars": 11344
           }
         },
         {
@@ -109,10 +109,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T13:34:03Z",
+            "last_commit": "2026-08-18T15:03:15Z",
             "owner": "kedro-org",
             "repo": "kedro",
-            "stars": 10955
+            "stars": 10954
           }
         },
         {
@@ -123,10 +123,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-17T10:25:51Z",
+            "last_commit": "2026-08-17T21:35:37Z",
             "owner": "apache",
             "repo": "hamilton",
-            "stars": 2565
+            "stars": 2568
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-08-17T15:03:27Z",
             "owner": "apache",
             "repo": "burr",
-            "stars": 2515
+            "stars": 2517
           }
         },
         {
@@ -277,7 +277,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T18:51:51Z",
+            "last_commit": "2026-08-18T07:07:16Z",
             "owner": "DataBiosphere",
             "repo": "toil",
             "stars": 936
@@ -305,7 +305,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T17:07:51Z",
+            "last_commit": "2026-08-17T17:10:19Z",
             "owner": "AgnostiqHQ",
             "repo": "covalent",
             "stars": 867
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-01T16:04:41Z",
             "owner": "Nike-Inc",
             "repo": "koheesio",
-            "stars": 817
+            "stars": 818
           }
         },
         {
@@ -431,7 +431,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T23:26:48Z",
+            "last_commit": "2026-08-17T23:29:44Z",
             "owner": "It4innovations",
             "repo": "hyperqueue",
             "stars": 552
@@ -445,7 +445,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T20:44:42Z",
+            "last_commit": "2026-08-17T17:41:55Z",
             "owner": "pipefunc",
             "repo": "pipefunc",
             "stars": 477
@@ -532,7 +532,7 @@
             "last_commit": "2026-08-14T00:23:19Z",
             "owner": "openstack",
             "repo": "mistral",
-            "stars": 309
+            "stars": 308
           }
         },
         {
@@ -627,10 +627,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T15:12:43Z",
+            "last_commit": "2026-08-17T18:43:52Z",
             "owner": "pytask-dev",
             "repo": "pytask",
-            "stars": 145
+            "stars": 146
           }
         },
         {
@@ -641,7 +641,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-20T16:54:03Z",
+            "last_commit": "2026-08-18T10:16:26Z",
             "owner": "nipype",
             "repo": "pydra",
             "stars": 143
@@ -893,7 +893,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T13:45:14Z",
+            "last_commit": "2026-08-18T13:44:25Z",
             "owner": "alpha-unito",
             "repo": "streamflow",
             "stars": 65
@@ -1307,20 +1307,6 @@
         },
         {
           "node_type": "item",
-          "title": "Conan2",
-          "description": "Light-weight workflow management application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2014-08-04T15:44:41Z",
-            "owner": "tburdett",
-            "repo": "Conan2",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
           "title": "TAF",
           "description": "R package to organize reproducible scientific workflows.",
           "children": [],
@@ -1330,6 +1316,20 @@
             "last_commit": "2026-08-17T04:25:24Z",
             "owner": "ices-tools-prod",
             "repo": "TAF",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conan2",
+          "description": "Light-weight workflow management application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2014-08-04T15:44:41Z",
+            "owner": "tburdett",
+            "repo": "Conan2",
             "stars": 3
           }
         },
@@ -1353,10 +1353,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T14:58:00Z",
+            "last_commit": "2026-08-18T15:11:32Z",
             "owner": "windmill-labs",
             "repo": "windmill",
-            "stars": 17565
+            "stars": 17571
           }
         },
         {
@@ -1367,7 +1367,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T11:57:25Z",
+            "last_commit": "2026-08-18T09:26:17Z",
             "owner": "flyteorg",
             "repo": "flyte",
             "stars": 7208
@@ -1384,7 +1384,7 @@
             "last_commit": "2023-06-06T09:48:26Z",
             "owner": "orchest",
             "repo": "orchest",
-            "stars": 4131
+            "stars": 4130
           }
         },
         {
@@ -1395,10 +1395,10 @@
           "repo_info": {
             "archived": false,
             "language": "MDX",
-            "last_commit": "2026-08-15T19:13:40Z",
+            "last_commit": "2026-08-17T19:18:08Z",
             "owner": "polyaxon",
             "repo": "polyaxon",
-            "stars": 3718
+            "stars": 3719
           }
         },
         {
@@ -1493,7 +1493,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T19:47:43Z",
+            "last_commit": "2026-08-18T09:07:18Z",
             "owner": "omegaml",
             "repo": "omegaml",
             "stars": 107
@@ -1535,7 +1535,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-14T13:07:35Z",
+            "last_commit": "2026-08-18T10:02:41Z",
             "owner": "uzh",
             "repo": "sushi",
             "stars": 29
@@ -1620,7 +1620,7 @@
             "last_commit": "2026-08-17T08:38:20Z",
             "owner": "treeverse",
             "repo": "lakeFS",
-            "stars": 5486
+            "stars": 5490
           }
         },
         {
@@ -1631,7 +1631,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T04:48:22Z",
+            "last_commit": "2026-08-18T13:20:14Z",
             "owner": "projectnessie",
             "repo": "nessie",
             "stars": 1494
@@ -1691,10 +1691,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T05:38:05Z",
+            "last_commit": "2026-08-18T05:34:12Z",
             "owner": "pathwaycom",
             "repo": "pathway",
-            "stars": 62442
+            "stars": 62430
           }
         },
         {
@@ -1705,7 +1705,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T22:06:55Z",
+            "last_commit": "2026-08-18T14:05:40Z",
             "owner": "cadence-workflow",
             "repo": "cadence",
             "stars": 9404
@@ -1719,10 +1719,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T13:17:47Z",
+            "last_commit": "2026-08-18T13:16:22Z",
             "owner": "bruin-data",
             "repo": "bruin",
-            "stars": 1668
+            "stars": 1669
           }
         },
         {
@@ -1733,7 +1733,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T13:58:36Z",
+            "last_commit": "2026-08-18T13:29:55Z",
             "owner": "dataform-co",
             "repo": "dataform",
             "stars": 994
@@ -1767,10 +1767,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T14:52:09Z",
+            "last_commit": "2026-08-18T10:16:22Z",
             "owner": "argoproj",
             "repo": "argo-workflows",
-            "stars": 16906
+            "stars": 16910
           }
         },
         {
@@ -1781,7 +1781,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T13:05:15Z",
+            "last_commit": "2026-08-18T13:29:54Z",
             "owner": "ovh",
             "repo": "cds",
             "stars": 4833
@@ -1804,7 +1804,7 @@
             "last_commit": "2026-08-12T23:47:50Z",
             "owner": "casey",
             "repo": "just",
-            "stars": 35326
+            "stars": 35347
           }
         },
         {
@@ -1880,7 +1880,7 @@
             "last_commit": "2026-05-01T06:27:21Z",
             "owner": "pawl",
             "repo": "awesome-etl",
-            "stars": 3582
+            "stars": 3583
           }
         },
         {
@@ -1891,10 +1891,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T18:30:54Z",
+            "last_commit": "2026-08-17T18:40:50Z",
             "owner": "manuzhang",
             "repo": "awesome-streaming",
-            "stars": 3005
+            "stars": 3004
           }
         },
         {
@@ -1916,7 +1916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T15:03:55.643Z",
+    "last_updated": "2026-08-18T15:13:11.809Z",
     "original_repository": "pditommaso/awesome-pipeline",
     "original_repository_sha": "348f3ae346a586f61b5264c0859e25f57557ea42",
     "enhanced_repository": "enhansome/enhansome-pipeline",
