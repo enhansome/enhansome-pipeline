@@ -12,10 +12,10 @@
             "archived": false,
             "id": 33884891,
             "language": "Python",
-            "last_commit": "2026-08-24T13:36:59Z",
+            "last_commit": "2026-08-24T15:06:21Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46596
+            "stars": 46597
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T12:25:44Z",
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43597
+            "stars": 43598
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 204164353,
             "language": "Java",
-            "last_commit": "2026-08-24T13:43:33Z",
+            "last_commit": "2026-08-24T15:12:57Z",
             "owner": "kestra-io",
             "repo": "kestra",
-            "stars": 27904
+            "stars": 27907
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-24T13:16:46Z",
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11397
+            "stars": 11399
           }
         },
         {
@@ -297,7 +297,7 @@
             "archived": false,
             "id": 33148320,
             "language": "Python",
-            "last_commit": "2026-08-24T13:20:54Z",
+            "last_commit": "2026-08-24T15:21:35Z",
             "owner": "DataBiosphere",
             "repo": "toil",
             "stars": 936
@@ -972,7 +972,7 @@
             "archived": false,
             "id": 285515027,
             "language": "C++",
-            "last_commit": "2026-08-24T13:39:49Z",
+            "last_commit": "2026-08-24T15:15:31Z",
             "owner": "ecmwf",
             "repo": "ecflow",
             "stars": 64
@@ -1443,7 +1443,7 @@
             "archived": false,
             "id": 488804911,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:48:00Z",
+            "last_commit": "2026-08-24T15:21:33Z",
             "owner": "windmill-labs",
             "repo": "windmill",
             "stars": 17657
@@ -1461,7 +1461,7 @@
             "last_commit": "2026-08-24T10:18:40Z",
             "owner": "flyteorg",
             "repo": "flyte",
-            "stars": 7235
+            "stars": 7236
           }
         },
         {
@@ -1878,7 +1878,7 @@
             "archived": false,
             "id": 100982449,
             "language": "Go",
-            "last_commit": "2026-08-24T13:17:14Z",
+            "last_commit": "2026-08-24T14:53:01Z",
             "owner": "argoproj",
             "repo": "argo-workflows",
             "stars": 16931
@@ -1917,7 +1917,7 @@
             "last_commit": "2026-08-20T23:01:29Z",
             "owner": "casey",
             "repo": "just",
-            "stars": 35448
+            "stars": 35449
           }
         },
         {
@@ -2078,7 +2078,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:52:04.592Z",
+    "last_updated": "2026-08-24T15:23:08.269Z",
     "original_repository": "pditommaso/awesome-pipeline",
     "original_repository_id": 22013111,
     "original_repository_sha": "348f3ae346a586f61b5264c0859e25f57557ea42",
