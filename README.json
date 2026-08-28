@@ -12,10 +12,10 @@
             "archived": false,
             "id": 33884891,
             "language": "Python",
-            "last_commit": "2026-08-27T11:18:07Z",
+            "last_commit": "2026-08-27T23:32:41Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46615
+            "stars": 46622
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 71932349,
             "language": "Python",
-            "last_commit": "2026-08-27T03:55:07Z",
+            "last_commit": "2026-08-27T23:53:07Z",
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43617
+            "stars": 43630
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 204164353,
             "language": "Java",
-            "last_commit": "2026-08-27T11:55:18Z",
+            "last_commit": "2026-08-27T17:51:27Z",
             "owner": "kestra-io",
             "repo": "kestra",
-            "stars": 27934
+            "stars": 27940
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-18T11:15:46Z",
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18765
+            "stars": 18767
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 131619646,
             "language": "Python",
-            "last_commit": "2026-08-26T19:38:00Z",
+            "last_commit": "2026-08-27T20:09:18Z",
             "owner": "dagster-io",
             "repo": "dagster",
-            "stars": 16068
+            "stars": 16069
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-24T18:46:39Z",
             "owner": "dask",
             "repo": "dask",
-            "stars": 13897
+            "stars": 13898
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 942312530,
             "language": "Rust",
-            "last_commit": "2026-08-27T00:53:42Z",
+            "last_commit": "2026-08-27T19:08:48Z",
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11413
+            "stars": 11420
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 182067506,
             "language": "Python",
-            "last_commit": "2026-08-27T02:29:39Z",
+            "last_commit": "2026-08-27T13:05:56Z",
             "owner": "kedro-org",
             "repo": "kedro",
-            "stars": 10972
+            "stars": 10974
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-19T04:38:48Z",
             "owner": "apache",
             "repo": "hamilton",
-            "stars": 2576
+            "stars": 2580
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-25T21:51:19Z",
             "owner": "apache",
             "repo": "burr",
-            "stars": 2528
+            "stars": 2529
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2026-07-17T14:45:30Z",
             "owner": "insitro",
             "repo": "redun",
-            "stars": 597
+            "stars": 598
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-08-27T04:30:54Z",
             "owner": "It4innovations",
             "repo": "hyperqueue",
-            "stars": 553
+            "stars": 554
           }
         },
         {
@@ -477,7 +477,7 @@
             "archived": false,
             "id": 666932451,
             "language": "Python",
-            "last_commit": "2026-08-27T00:06:29Z",
+            "last_commit": "2026-08-27T22:15:19Z",
             "owner": "pipefunc",
             "repo": "pipefunc",
             "stars": 477
@@ -567,7 +567,7 @@
             "archived": false,
             "id": 13968255,
             "language": "Python",
-            "last_commit": "2026-08-26T22:52:29Z",
+            "last_commit": "2026-08-27T12:58:03Z",
             "owner": "openstack",
             "repo": "mistral",
             "stars": 309
@@ -672,7 +672,7 @@
             "archived": false,
             "id": 274689747,
             "language": "Python",
-            "last_commit": "2026-08-25T21:15:09Z",
+            "last_commit": "2026-08-27T19:20:33Z",
             "owner": "pytask-dev",
             "repo": "pytask",
             "stars": 146
@@ -1443,10 +1443,10 @@
             "archived": false,
             "id": 488804911,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:51:05Z",
+            "last_commit": "2026-08-27T21:51:07Z",
             "owner": "windmill-labs",
             "repo": "windmill",
-            "stars": 17694
+            "stars": 17703
           }
         },
         {
@@ -1458,10 +1458,10 @@
             "archived": false,
             "id": 216628419,
             "language": "Go",
-            "last_commit": "2026-08-27T09:25:22Z",
+            "last_commit": "2026-08-27T23:47:16Z",
             "owner": "flyteorg",
             "repo": "flyte",
-            "stars": 7249
+            "stars": 7278
           }
         },
         {
@@ -1491,7 +1491,7 @@
             "last_commit": "2026-08-26T14:17:22Z",
             "owner": "polyaxon",
             "repo": "polyaxon",
-            "stars": 3724
+            "stars": 3725
           }
         },
         {
@@ -1728,7 +1728,7 @@
             "last_commit": "2026-08-19T13:41:32Z",
             "owner": "treeverse",
             "repo": "lakeFS",
-            "stars": 5496
+            "stars": 5498
           }
         },
         {
@@ -1740,7 +1740,7 @@
             "archived": false,
             "id": 254450741,
             "language": "Java",
-            "last_commit": "2026-08-27T04:28:58Z",
+            "last_commit": "2026-08-27T19:02:40Z",
             "owner": "projectnessie",
             "repo": "nessie",
             "stars": 1497
@@ -1815,7 +1815,7 @@
             "last_commit": "2026-08-27T00:00:43Z",
             "owner": "cadence-workflow",
             "repo": "cadence",
-            "stars": 9420
+            "stars": 9421
           }
         },
         {
@@ -1827,7 +1827,7 @@
             "archived": false,
             "id": 674225653,
             "language": "Go",
-            "last_commit": "2026-08-27T11:38:36Z",
+            "last_commit": "2026-08-27T15:29:48Z",
             "owner": "bruin-data",
             "repo": "bruin",
             "stars": 1678
@@ -1842,7 +1842,7 @@
             "archived": false,
             "id": 147217097,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T09:00:57Z",
+            "last_commit": "2026-08-27T17:24:59Z",
             "owner": "dataform-co",
             "repo": "dataform",
             "stars": 995
@@ -1878,7 +1878,7 @@
             "archived": false,
             "id": 100982449,
             "language": "Go",
-            "last_commit": "2026-08-27T11:18:12Z",
+            "last_commit": "2026-08-27T13:38:02Z",
             "owner": "argoproj",
             "repo": "argo-workflows",
             "stars": 16940
@@ -1893,7 +1893,7 @@
             "archived": false,
             "id": 70572539,
             "language": "Go",
-            "last_commit": "2026-08-26T14:23:35Z",
+            "last_commit": "2026-08-27T15:29:29Z",
             "owner": "ovh",
             "repo": "cds",
             "stars": 4837
@@ -1917,7 +1917,7 @@
             "last_commit": "2026-08-20T23:01:29Z",
             "owner": "casey",
             "repo": "just",
-            "stars": 35508
+            "stars": 35518
           }
         },
         {
@@ -2025,7 +2025,7 @@
             "last_commit": "2026-04-06T08:20:52Z",
             "owner": "meirwah",
             "repo": "awesome-workflow-engines",
-            "stars": 7915
+            "stars": 7916
           }
         },
         {
@@ -2078,7 +2078,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:57:29.374Z",
+    "last_updated": "2026-08-28T00:01:03.128Z",
     "original_repository_info": {
       "archived": false,
       "id": 22013111,
