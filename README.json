@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+            "homepage": "https://airflow.apache.org/",
             "id": 33884891,
             "language": "Python",
-            "last_commit": "2026-08-28T22:27:46Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:03:00Z",
+            "open_issues": 1982,
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46632
+            "stars": 46630,
+            "topics": [
+              "airflow",
+              "apache",
+              "apache-airflow",
+              "automation",
+              "dag",
+              "data-engineering",
+              "data-integration",
+              "data-orchestrator",
+              "data-pipelines",
+              "data-science",
+              "elt",
+              "etl",
+              "machine-learning",
+              "mlops",
+              "orchestration",
+              "python",
+              "scheduler",
+              "workflow",
+              "workflow-engine",
+              "workflow-orchestration"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -26,12 +52,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+            "homepage": "https://ray.io",
             "id": 71932349,
             "language": "Python",
-            "last_commit": "2026-08-28T23:23:42Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:52:53Z",
+            "open_issues": 3536,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43639
+            "stars": 43639,
+            "topics": [
+              "data-science",
+              "deep-learning",
+              "deployment",
+              "distributed",
+              "hyperparameter-optimization",
+              "hyperparameter-search",
+              "large-language-models",
+              "llm",
+              "llm-inference",
+              "llm-serving",
+              "machine-learning",
+              "optimization",
+              "parallel",
+              "python",
+              "pytorch",
+              "ray",
+              "reinforcement-learning",
+              "rllib",
+              "serving",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -42,12 +94,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
+            "homepage": "https://go.kestra.io/home",
             "id": 204164353,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:05:52Z",
+            "open_issues": 676,
             "owner": "kestra-io",
             "repo": "kestra",
-            "stars": 27944
+            "stars": 27946,
+            "topics": [
+              "ai-agents",
+              "automation",
+              "control-plane",
+              "data-engineering",
+              "data-orchestration",
+              "data-orchestrator",
+              "devops",
+              "etl",
+              "hacktoberfest",
+              "high-availability",
+              "infra-automation",
+              "infra-ops",
+              "infrastructure-as-code",
+              "java",
+              "low-code",
+              "orchestration",
+              "pipeline",
+              "pipeline-as-code",
+              "scheduler",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -58,12 +136,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.",
+            "homepage": null,
             "id": 5888353,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-18T11:15:46Z",
+            "open_issues": 170,
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18768
+            "stars": 18768,
+            "topics": [
+              "hadoop",
+              "luigi",
+              "orchestration-framework",
+              "python",
+              "scheduling"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -74,12 +163,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An orchestration platform for the development, production, and observation of data assets.",
+            "homepage": "https://dagster.io",
             "id": 131619646,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:14:34Z",
+            "open_issues": 2586,
             "owner": "dagster-io",
             "repo": "dagster",
-            "stars": 16072
+            "stars": 16072,
+            "topics": [
+              "analytics",
+              "dagster",
+              "data-engineering",
+              "data-integration",
+              "data-orchestrator",
+              "data-pipelines",
+              "data-science",
+              "etl",
+              "metadata",
+              "mlops",
+              "orchestration",
+              "python",
+              "scheduler",
+              "workflow",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -90,12 +200,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parallel computing with task scheduling",
+            "homepage": "https://dask.org",
             "id": 28782747,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-24T18:46:39Z",
+            "open_issues": 1317,
             "owner": "dask",
             "repo": "dask",
-            "stars": 13901
+            "stars": 13901,
+            "topics": [
+              "dask",
+              "numpy",
+              "pandas",
+              "pydata",
+              "python",
+              "scikit-learn",
+              "scipy"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -106,12 +229,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+            "homepage": "https://cocoindex.io",
             "id": 942312530,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:26:54Z",
+            "open_issues": 74,
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11428
+            "stars": 11430,
+            "topics": [
+              "agentic-data-framework",
+              "ai",
+              "ai-agents",
+              "change-data-capture",
+              "codebase-intelligence",
+              "context-engineering",
+              "data-engineering",
+              "data-indexing",
+              "data-processing",
+              "etl",
+              "help-wanted",
+              "indexing",
+              "knowledge-graph",
+              "llm",
+              "long-horizon-agent",
+              "python",
+              "rag",
+              "real-time",
+              "rust",
+              "semantic-search"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -122,12 +271,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.",
+            "homepage": "https://kedro.org",
             "id": 182067506,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T23:26:40Z",
+            "open_issues": 143,
             "owner": "kedro-org",
             "repo": "kedro",
-            "stars": 10975
+            "stars": 10975,
+            "topics": [
+              "agentic-ai",
+              "agentic-workflow",
+              "data-pipelines",
+              "hacktoberfest",
+              "kedro",
+              "machine-learning",
+              "machine-learning-engineering",
+              "mlops",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -138,12 +302,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.",
+            "homepage": "https://hamilton.apache.org/",
             "id": 605682921,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T04:38:48Z",
+            "open_issues": 156,
             "owner": "apache",
             "repo": "hamilton",
-            "stars": 2582
+            "stars": 2582,
+            "topics": [
+              "dag",
+              "data-analysis",
+              "data-engineering",
+              "data-science",
+              "dataframe",
+              "etl",
+              "etl-framework",
+              "etl-pipeline",
+              "feature-engineering",
+              "hacktoberfest",
+              "lineage",
+              "llmops",
+              "machine-learning",
+              "mlops",
+              "orchestration",
+              "pandas",
+              "python",
+              "rag",
+              "software-engineering"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -154,12 +343,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure.",
+            "homepage": "https://burr.apache.org/",
             "id": 750069596,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T21:51:19Z",
+            "open_issues": 108,
             "owner": "apache",
             "repo": "burr",
-            "stars": 2531
+            "stars": 2531,
+            "topics": [
+              "ai",
+              "burr",
+              "chatbot-framework",
+              "dags",
+              "generative-ai",
+              "graphs",
+              "hacktoberfest",
+              "llmops",
+              "llms",
+              "mlops",
+              "persistent-data-structure",
+              "state-machine",
+              "state-management",
+              "visibility"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -170,12 +379,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow",
+            "homepage": null,
             "id": 127569316,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-12-15T16:14:47Z",
+            "open_issues": 26,
             "owner": "mara",
             "repo": "mara-pipelines",
-            "stars": 2089
+            "stars": 2089,
+            "topics": [
+              "data",
+              "data-integration",
+              "etl",
+              "pipeline",
+              "postgresql",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -186,12 +407,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful workflow engine implemented in pure Python",
+            "homepage": null,
             "id": 448831,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-10T16:11:05Z",
+            "open_issues": 8,
             "owner": "sartography",
             "repo": "SpiffWorkflow",
-            "stars": 1913
+            "stars": 1913,
+            "topics": [
+              "bpmn",
+              "bpmn-engine",
+              "python",
+              "spiff-workflow",
+              "workflow",
+              "workflow-specification",
+              "workflowpatterns"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -202,12 +436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data workflow tool, like a \"Make for data\"",
+            "homepage": null,
             "id": 7800872,
             "language": "Clojure",
+            "license": "NOASSERTION",
             "last_commit": "2022-04-12T00:06:43Z",
+            "open_issues": 83,
             "owner": "Factual",
             "repo": "drake",
-            "stars": 1485
+            "stars": 1485,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -218,12 +457,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An R-focused pipeline toolkit for reproducibility and high-performance computing",
+            "homepage": "https://docs.ropensci.org/drake",
             "id": 82609103,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2024-12-04T11:25:31Z",
+            "open_issues": 0,
             "owner": "ropensci",
             "repo": "drake",
-            "stars": 1342
+            "stars": 1342,
+            "topics": [
+              "data-science",
+              "drake",
+              "high-performance-computing",
+              "makefile",
+              "peer-reviewed",
+              "pipeline",
+              "r",
+              "r-package",
+              "reproducibility",
+              "reproducible-research",
+              "ropensci",
+              "rstats",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -234,12 +492,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Function-oriented Make-like declarative workflows for R",
+            "homepage": "https://docs.ropensci.org/targets/",
             "id": 200093430,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-13T17:53:48Z",
+            "open_issues": 0,
             "owner": "ropensci",
             "repo": "targets",
-            "stars": 1095
+            "stars": 1095,
+            "topics": [
+              "data-science",
+              "high-performance-computing",
+              "make",
+              "peer-reviewed",
+              "pipeline",
+              "r",
+              "r-package",
+              "r-targetopia",
+              "reproducibility",
+              "reproducible-research",
+              "rstats",
+              "targets",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -250,12 +527,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+            "homepage": "http://cromwell.readthedocs.io/",
             "id": 34136406,
             "language": "Scala",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-04T14:32:07Z",
+            "open_issues": 813,
             "owner": "broadinstitute",
             "repo": "cromwell",
-            "stars": 1080
+            "stars": 1080,
+            "topics": [
+              "application",
+              "bioinformatics",
+              "cloud",
+              "containers",
+              "docker",
+              "executor",
+              "ga4gh",
+              "hpc",
+              "scala",
+              "wdl",
+              "workflow",
+              "workflow-description-language",
+              "workflow-execution"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -266,12 +562,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Pinball is a scalable workflow manager",
+            "homepage": null,
             "id": 31635428,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2019-12-10T19:01:58Z",
+            "open_issues": 13,
             "owner": "pinterest",
             "repo": "pinball",
-            "stars": 1046
+            "stars": 1046,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -282,12 +583,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A language and runtime for distributed, incremental data processing in the cloud",
+            "homepage": null,
             "id": 107628620,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-18T23:58:09Z",
+            "open_issues": 28,
             "owner": "grailbio",
             "repo": "reflow",
-            "stars": 976
+            "stars": 976,
+            "topics": [
+              "analysis-pipeline",
+              "aws",
+              "bioinformatics-pipeline",
+              "cloud-computing",
+              "data-science",
+              "golang",
+              "language",
+              "runtime",
+              "scientific-computing"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -298,12 +614,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified Interface for Constructing and Managing Workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.",
+            "homepage": "https://couler-proj.github.io/couler/index.html",
             "id": 288523518,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-08T03:31:54Z",
+            "open_issues": 21,
             "owner": "couler-proj",
             "repo": "couler",
-            "stars": 943
+            "stars": 943,
+            "topics": [
+              "apache-airflow",
+              "argo-workflows",
+              "cloud-native",
+              "distributed-computing",
+              "kubeflow",
+              "kubernetes",
+              "machine-learning",
+              "python",
+              "scheduler",
+              "tekton-pipelines",
+              "unified-api",
+              "unified-interface",
+              "workflow-automation",
+              "workflow-engine",
+              "workflow-management"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -314,12 +651,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A WDL, CWL and Python API supporting easy-to-use workflow engine. It is scalable, efficient and cross-platform (Linux/macOS).",
+            "homepage": "http://toil.ucsc-cgl.org/.",
             "id": 33148320,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T23:04:12Z",
+            "open_issues": 405,
             "owner": "DataBiosphere",
             "repo": "toil",
-            "stars": 936
+            "stars": 936,
+            "topics": [
+              "aws",
+              "common-workflow-language",
+              "cwl",
+              "gridengine",
+              "kubernetes",
+              "mesos",
+              "pipeline",
+              "python",
+              "slurm",
+              "wdl",
+              "workflow",
+              "workflow-description-language"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -330,12 +685,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star!",
+            "homepage": "https://hera.rtfd.io",
             "id": 413486077,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T20:08:04Z",
+            "open_issues": 26,
             "owner": "argoproj-labs",
             "repo": "hera",
-            "stars": 933
+            "stars": 934,
+            "topics": [
+              "argo",
+              "argo-events",
+              "argo-workflows",
+              "cloud-native",
+              "hera",
+              "kubernetes",
+              "library",
+              "machine-learning",
+              "pypi",
+              "python",
+              "sdk",
+              "workflow-automation",
+              "workflow-management",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -346,12 +721,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pythonic tool for orchestrating machine-learning/high performance/quantum-computing workflows in heterogeneous compute environments.",
+            "homepage": "https://www.covalent.xyz",
             "id": 424247027,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T17:10:19Z",
+            "open_issues": 103,
             "owner": "AgnostiqHQ",
             "repo": "covalent",
-            "stars": 869
+            "stars": 869,
+            "topics": [
+              "covalent",
+              "data-pipeline",
+              "data-science",
+              "deep-learning",
+              "hacktoberfest",
+              "hpc",
+              "hpc-applications",
+              "machine-learning",
+              "machinelearning",
+              "machinelearning-python",
+              "orchestration",
+              "parallelization",
+              "pipelines",
+              "python",
+              "quantum",
+              "quantum-computing",
+              "quantum-machine-learning",
+              "workflow",
+              "workflow-automation",
+              "workflow-management"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -362,12 +763,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workflows and interfaces for neuroimaging packages",
+            "homepage": "https://nipype.readthedocs.org/en/latest/",
             "id": 791477,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T15:18:16Z",
+            "open_issues": 424,
             "owner": "nipy",
             "repo": "nipype",
-            "stars": 834
+            "stars": 834,
+            "topics": [
+              "big-data",
+              "brain-imaging",
+              "brainweb",
+              "data-science",
+              "dataflow",
+              "dataflow-programming",
+              "neuroimaging",
+              "python",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -378,12 +794,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python framework for building efficient data pipelines. It promotes modularity and collaboration, enabling the creation of complex pipelines from simple, reusable components.",
+            "homepage": "https://engineering.nike.com/koheesio/",
             "id": 796773455,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-01T16:04:41Z",
+            "open_issues": 33,
             "owner": "Nike-Inc",
             "repo": "koheesio",
-            "stars": 818
+            "stars": 818,
+            "topics": [
+              "data-engineering",
+              "delta-lake",
+              "pydantic",
+              "pyspark",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -394,12 +821,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Netflix's distributed Data Pipeline",
+            "homepage": null,
             "id": 8914350,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-10T10:22:36Z",
+            "open_issues": 6,
             "owner": "Netflix",
             "repo": "suro",
-            "stars": 796
+            "stars": 796,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -410,12 +842,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple DAG-based job scheduler in Python",
+            "homepage": null,
             "id": 9983531,
             "language": "CSS",
+            "license": "WTFPL",
             "last_commit": "2019-07-31T19:59:15Z",
+            "open_issues": 49,
             "owner": "thieman",
             "repo": "dagobah",
-            "stars": 764
+            "stars": 764,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -426,12 +863,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framework for large distributed pipelines",
+            "homepage": "https://substantic.github.io/rain/docs/",
             "id": 121410309,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-03-04T01:27:07Z",
+            "open_issues": 37,
             "owner": "substantic",
             "repo": "rain",
-            "stars": 760
+            "stars": 760,
+            "topics": [
+              "distributed-computing",
+              "pipelines",
+              "python-api",
+              "rust",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -442,12 +890,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SCOOP (Scalable COncurrent Operations in Python)",
+            "homepage": "https://github.com/soravux/scoop",
             "id": 32688797,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2023-03-17T14:55:03Z",
+            "open_issues": 34,
             "owner": "soravux",
             "repo": "scoop",
-            "stars": 661
+            "stars": 661,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -458,12 +911,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another redundant workflow engine",
+            "homepage": "https://insitro.github.io/redun/",
             "id": 424419603,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-17T14:45:30Z",
+            "open_issues": 34,
             "owner": "insitro",
             "repo": "redun",
-            "stars": 598
+            "stars": 598,
+            "topics": [
+              "aws",
+              "bioinformatics",
+              "data-engineering",
+              "data-science",
+              "docker",
+              "etl",
+              "gcp",
+              "ml",
+              "python",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -474,12 +943,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repository for the AiiDA code",
+            "homepage": "https://aiida-core.readthedocs.io",
             "id": 77234579,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T10:18:30Z",
+            "open_issues": 674,
             "owner": "aiidateam",
             "repo": "aiida-core",
-            "stars": 579
+            "stars": 579,
+            "topics": [
+              "aiida",
+              "computational-science",
+              "data-provenance",
+              "database",
+              "provenance",
+              "scheduler",
+              "ssh",
+              "workflow",
+              "workflow-engine",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -490,12 +975,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "User-friendly Scheduler for sub-node tasks for HPC systems",
+            "homepage": "https://it4innovations.github.io/hyperqueue",
             "id": 349152473,
             "language": "Rust",
-            "last_commit": "2026-08-28T06:55:46Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:12:13Z",
+            "open_issues": 56,
             "owner": "It4innovations",
             "repo": "hyperqueue",
-            "stars": 554
+            "stars": 554,
+            "topics": [
+              "distributed-computing",
+              "hpc",
+              "rust",
+              "task-graph"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -506,12 +1001,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight fast function pipeline (DAG) creation in pure Python for scientific (HPC) workflows 🕸️🧪",
+            "homepage": "https://pipefunc.readthedocs.io/",
             "id": 666932451,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:32:05Z",
+            "open_issues": 75,
             "owner": "pipefunc",
             "repo": "pipefunc",
-            "stars": 477
+            "stars": 477,
+            "topics": [
+              "dag",
+              "hpc",
+              "parallel-computing",
+              "pipeline-framework",
+              "pipelines",
+              "reproducible-research",
+              "slurm",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -522,12 +1031,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An engine for managing the execution of container-based workflows.",
+            "homepage": "http://Dray.it",
             "id": 28423071,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2020-01-24T17:34:58Z",
+            "open_issues": 7,
             "owner": "CenturyLinkLabs",
             "repo": "dray",
-            "stars": 385
+            "stars": 385,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -538,12 +1052,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workflows for Fission: Fast, reliable and lightweight function composition for serverless functions",
+            "homepage": null,
             "id": 97091215,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-30T20:18:26Z",
+            "open_issues": 62,
             "owner": "fission",
             "repo": "fission-workflows",
-            "stars": 380
+            "stars": 380,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -554,12 +1073,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make-like declarative workflows in R",
+            "homepage": null,
             "id": 23730096,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2018-06-07T09:32:52Z",
+            "open_issues": 105,
             "owner": "richfitz",
             "repo": "remake",
-            "stars": 341
+            "stars": 341,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -570,12 +1094,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A light-weight wrapper library around Spotify's Luigi workflow library to make writing scientific workflows more fluent, flexible and modular",
+            "homepage": "http://dx.doi.org/10.1186/s13321-016-0179-6",
             "id": 35960208,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-10T17:04:10Z",
+            "open_issues": 24,
             "owner": "pharmbio",
             "repo": "sciluigi",
-            "stars": 334
+            "stars": 334,
+            "topics": [
+              "luigi",
+              "scientific-workflows",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -586,12 +1120,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Container-native task automation engine.",
+            "homepage": "https://getpopper.io",
             "id": 43576029,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-03-29T22:02:27Z",
+            "open_issues": 23,
             "owner": "getpopper",
             "repo": "popper",
-            "stars": 310
+            "stars": 310,
+            "topics": [
+              "automation-engine",
+              "cli",
+              "containers",
+              "devops",
+              "docker",
+              "podman",
+              "reproducibility",
+              "sciops",
+              "singularity",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -602,12 +1152,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workflow Service for OpenStack. Mirror of code maintained at opendev.org.",
+            "homepage": "https://opendev.org/openstack/mistral",
             "id": 13968255,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T12:58:03Z",
+            "open_issues": 0,
             "owner": "openstack",
             "repo": "mistral",
-            "stars": 309
+            "stars": 309,
+            "topics": [
+              "service"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -618,12 +1175,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cuneiform distributed programming language",
+            "homepage": "https://cuneiform-lang.org/",
             "id": 19989395,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-07T12:27:28Z",
+            "open_issues": 9,
             "owner": "joergen7",
             "repo": "cuneiform",
-            "stars": 254
+            "stars": 254,
+            "topics": [
+              "bioinformatics",
+              "distributed-computing",
+              "erlang",
+              "functional-programming",
+              "machine-learning",
+              "otp",
+              "parallelization",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -634,12 +1206,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bpipe - a tool for running and managing bioinformatics pipelines",
+            "homepage": "http://docs.bpipe.org/",
             "id": 25450807,
             "language": "Groovy",
-            "last_commit": "2026-08-17T00:55:06Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:53:01Z",
+            "open_issues": 158,
             "owner": "ssadedin",
             "repo": "bpipe",
-            "stars": 242
+            "stars": 242,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -650,12 +1227,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Embeddable JVM-based workflow engine with high availability, fault tolerance, and support for multiple databases. Additional libraries are provided for visualization and REST API.",
+            "homepage": null,
             "id": 16453755,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T22:43:45Z",
+            "open_issues": 25,
             "owner": "NitorCreations",
             "repo": "nflow",
-            "stars": 238
+            "stars": 238,
+            "topics": [
+              "java",
+              "nflow",
+              "orchestrating-processes",
+              "saga-pattern",
+              "workflow",
+              "workflow-automation",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -666,12 +1256,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":trolleybus: A pipeline abstraction for Python",
+            "homepage": null,
             "id": 47354561,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-02-24T00:23:45Z",
+            "open_issues": 6,
             "owner": "robdmc",
             "repo": "consecution",
-            "stars": 168
+            "stars": 168,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -682,12 +1277,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to easily orchestrate general computational workflows both locally and on supercomputers",
+            "homepage": "https://maestrowf.readthedocs.io",
             "id": 96822206,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-13T23:48:11Z",
+            "open_issues": 91,
             "owner": "llnl",
             "repo": "maestrowf",
-            "stars": 162
+            "stars": 162,
+            "topics": [
+              "hpc",
+              "python",
+              "radiuss",
+              "science-research",
+              "simulation-study",
+              "workflow",
+              "workflow-processes",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -698,12 +1307,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight parallel task engine",
+            "homepage": "http://Illumina.github.io/pyflow/",
             "id": 9925282,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-07-01T21:52:29Z",
+            "open_issues": 14,
             "owner": "Illumina",
             "repo": "pyflow",
-            "stars": 148
+            "stars": 148,
+            "topics": [
+              "task-runner",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -714,12 +1332,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pytask is a workflow management system that facilitates reproducible data analyses.",
+            "homepage": "https://pytask-dev.readthedocs.io/en/stable",
             "id": 274689747,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T22:53:38Z",
+            "open_issues": 19,
             "owner": "pytask-dev",
             "repo": "pytask",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "pytask",
+              "reproducible-research",
+              "scientific-workflows"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -730,12 +1357,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pydra Dataflow Engine",
+            "homepage": "https://nipype.github.io/pydra/",
             "id": 152126811,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T10:16:26Z",
+            "open_issues": 101,
             "owner": "nipype",
             "repo": "pydra",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "brainweb",
+              "dataflow-engine",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -746,12 +1382,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Functional, Typesafe, Declarative Data Pipelines",
+            "homepage": null,
             "id": 36950715,
             "language": "Scala",
+            "license": "MIT",
             "last_commit": "2018-01-29T03:11:05Z",
+            "open_issues": 2,
             "owner": "intentmedia",
             "repo": "mario",
-            "stars": 140
+            "stars": 140,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -762,12 +1403,35 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lightweight, Python library for fast and reproducible experimentation :microscope:",
+            "homepage": null,
             "id": 117526101,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-11-23T09:48:51Z",
+            "open_issues": 13,
             "owner": "minerva-ml",
             "repo": "steppy",
-            "stars": 136
+            "stars": 136,
+            "topics": [
+              "data-science",
+              "deep-learning",
+              "image-processing",
+              "machine-learning",
+              "minimal-interface",
+              "nlp",
+              "open-source",
+              "pipeline",
+              "python",
+              "python-library",
+              "python3",
+              "reproducibility",
+              "reproducible-research",
+              "steppy",
+              "steppy-library",
+              "steppy-toolkit",
+              "steps"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -778,12 +1442,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Directed Acyclic Graph task dependency scheduler designed to simplify complex distributed pipelines",
+            "homepage": null,
             "id": 21438333,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2018-07-23T20:49:15Z",
+            "open_issues": 7,
             "owner": "sailthru",
             "repo": "stolos",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -794,12 +1463,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GNU-Make-like utility for managing builds and complex workflows",
+            "homepage": null,
             "id": 2358957,
             "language": "Prolog",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-11-14T23:00:19Z",
+            "open_issues": 27,
             "owner": "evoldoers",
             "repo": "biomake",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "bioinformatics",
+              "gnu-make",
+              "makefiles",
+              "prolog",
+              "swi-prolog",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -810,12 +1491,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pipeline framework for python",
+            "homepage": "https://pwwang.github.io/pipen/",
             "id": 80252164,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T01:46:30Z",
+            "open_issues": 0,
             "owner": "pwwang",
             "repo": "pipen",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "dot",
+              "jinja2",
+              "pipeline",
+              "pipeline-framework",
+              "python",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -826,12 +1520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Briefly - A Python Meta-programming Library for Job Flow Control",
+            "homepage": null,
             "id": 31556852,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2018-09-10T20:17:02Z",
+            "open_issues": 3,
             "owner": "bloomreach",
             "repo": "briefly",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -842,12 +1541,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[Historical] Reproducible Analyses for Bioinformatics",
+            "homepage": "http://rabix.io",
             "id": 20653968,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2019-03-11T19:13:05Z",
+            "open_issues": 23,
             "owner": "rabix",
             "repo": "rabix",
-            "stars": 107
+            "stars": 107,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -858,12 +1562,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Dockerflow is a workflow runner that uses Dataflow to run a series of tasks in Docker with the Pipelines API",
+            "homepage": null,
             "id": 68125544,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2017-11-21T00:49:30Z",
+            "open_issues": 7,
             "owner": "googlegenomics",
             "repo": "dockerflow",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -874,12 +1583,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Robust and efficient workflows using a simple language agnostic approach",
+            "homepage": "http://flow-r.github.io/flowr",
             "id": 19354942,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-14T14:53:22Z",
+            "open_issues": 6,
             "owner": "flow-r",
             "repo": "flowr",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "bioinformatics",
+              "cloud",
+              "cluster",
+              "cran",
+              "flowr",
+              "pipeline",
+              "tsv",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -890,12 +1613,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Express parametrable, composable and portable data pipelines",
+            "homepage": null,
             "id": 154361395,
             "language": "Haskell",
+            "license": null,
             "last_commit": "2022-04-06T09:16:07Z",
+            "open_issues": 25,
             "owner": "YPares",
             "repo": "porcupine",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "analytics",
+              "haskell",
+              "reproducible-research",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -906,12 +1639,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High throughput workflows and automation for HPC",
+            "homepage": null,
             "id": 156436903,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-23T16:10:31Z",
+            "open_issues": 69,
             "owner": "argonne-lcf",
             "repo": "balsam",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -922,12 +1660,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run GPU or batch jobs directly from your dev environment",
+            "homepage": "http://velda.io",
             "id": 1031531646,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T19:16:33Z",
+            "open_issues": 2,
             "owner": "velda-io",
             "repo": "velda",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "cloud-computing",
+              "cloud-management",
+              "job-scheduler",
+              "ml-infrastructure",
+              "ml-platform",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -938,12 +1688,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keep Track of Experimental Workflows",
+            "homepage": "http://www.hammerlab.org/docs/ketrew/master/index.html",
             "id": 20244903,
             "language": "OCaml",
+            "license": "Apache-2.0",
             "last_commit": "2018-02-05T00:29:03Z",
+            "open_issues": 131,
             "owner": "hammerlab",
             "repo": "ketrew",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "edsl",
+              "ocaml",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -954,12 +1713,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Tibanna helps you run your genomic pipelines on Amazon cloud (AWS). It is used by the 4DN DCIC (4D Nucleome Data Coordination and Integration Center) to process data. Tibanna supports CWL/WDL (w/ docker), Snakemake (w/ conda) and custom Docker/shell command.",
+            "homepage": null,
             "id": 63349223,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-22T21:25:11Z",
+            "open_issues": 28,
             "owner": "4dn-dcic",
             "repo": "tibanna",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "aws",
+              "aws-lambda",
+              "aws-step-function",
+              "bioinformatics",
+              "conda",
+              "cwl",
+              "cwl-workflow",
+              "docker",
+              "ot2od032119",
+              "pipelines",
+              "snakemake",
+              "snakemake-workflow",
+              "u01ca200059",
+              "um1da058230",
+              "wdl",
+              "wdl-workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -970,12 +1751,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A scala based DSL and framework for writing and executing bioinformatics pipelines as Directed Acyclic GRaphs",
+            "homepage": null,
             "id": 50968977,
             "language": "Scala",
+            "license": "MIT",
             "last_commit": "2022-05-27T01:27:07Z",
+            "open_issues": 72,
             "owner": "fulcrumgenomics",
             "repo": "dagr",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -986,12 +1772,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A parallel pipeline for stream processing",
+            "homepage": null,
             "id": 505412683,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-19T18:08:19Z",
+            "open_issues": 1,
             "owner": "picanumber",
             "repo": "yapp",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "cpp",
+              "cpp20",
+              "header-only",
+              "multithreading",
+              "parallel-processing",
+              "pipeline",
+              "template-metaprogramming"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1002,12 +1801,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "workflow and resource management system for bioinformatics data analysis",
+            "homepage": null,
             "id": 4228980,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2020-10-29T19:43:37Z",
+            "open_issues": 1,
             "owner": "MG-RAST",
             "repo": "AWE",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "awe",
+              "mg-rast",
+              "multi-cloud",
+              "shock",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1018,12 +1828,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "StreamFlow Workflow Manager",
+            "homepage": "https://streamflow.di.unito.it",
             "id": 222435130,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-24T13:44:56Z",
+            "open_issues": 31,
             "owner": "alpha-unito",
             "repo": "streamflow",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1034,12 +1851,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ECMWF's workflow manager ",
+            "homepage": null,
             "id": 285515027,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T09:11:06Z",
+            "open_issues": 17,
             "owner": "ecmwf",
             "repo": "ecflow",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "ecflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1050,12 +1874,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple python workflow engine based on asyncio and a DAG structure.",
+            "homepage": null,
             "id": 85357333,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-05-11T16:17:59Z",
+            "open_issues": 8,
             "owner": "baffelli",
             "repo": "pyperator",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1066,12 +1895,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bioinformatics pipelines with Haskell and Shake",
+            "homepage": null,
             "id": 83380722,
             "language": "Haskell",
+            "license": "ISC",
             "last_commit": "2019-08-13T23:11:16Z",
+            "open_issues": 3,
             "owner": "PapenfussLab",
             "repo": "bioshake",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1082,12 +1916,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parallel Workflow extension for Rake, runs on multicores, clusters, clouds.",
+            "homepage": "http://masa16.github.io/pwrake/",
             "id": 4015087,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2020-01-16T07:12:37Z",
+            "open_issues": 2,
             "owner": "masa16",
             "repo": "pwrake",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "cluster",
+              "distributed-computing",
+              "gfarm",
+              "parallel",
+              "parallel-computing",
+              "pwrake",
+              "rake",
+              "ruby",
+              "scientific-computing",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1098,12 +1948,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dynamic DAG workflows",
+            "homepage": null,
             "id": 34408622,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-04T15:36:33Z",
+            "open_issues": 3,
             "owner": "yadage",
             "repo": "adage",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1114,12 +1969,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EnsEMBL Hive - a system for creating and running pipelines on a distributed compute resource",
+            "homepage": null,
             "id": 14950379,
             "language": "Perl",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-06T13:30:46Z",
+            "open_issues": 0,
             "owner": "Ensembl",
             "repo": "ensembl-hive",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "docker",
+              "ehive",
+              "ensembl",
+              "high-performance-computing",
+              "mysql",
+              "perl",
+              "pipeline",
+              "postgresql",
+              "python",
+              "slurm",
+              "sqlite",
+              "workflow-management-system"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1130,12 +2003,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework (comand line tool + libraries) for creating flexible compute pipelines",
+            "homepage": null,
             "id": 34980120,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-01-29T05:00:00Z",
+            "open_issues": 7,
             "owner": "druths",
             "repo": "xp",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "data-science",
+              "notebook",
+              "pipeline",
+              "research-tool",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1146,12 +2030,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library to build and execute typed scientific workflows",
+            "homepage": null,
             "id": 16048467,
             "language": "OCaml",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-18T19:54:27Z",
+            "open_issues": 19,
             "owner": "pveber",
             "repo": "bistro",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "bioinformatics",
+              "computational-biology",
+              "ocaml",
+              "pipeline",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1162,12 +2057,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python library to manipulate and transform indexable data (lists, arrays, ...)",
+            "homepage": "https://seqtools-doc.readthedocs.io",
             "id": 95048943,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2024-04-12T20:47:56Z",
+            "open_issues": 0,
             "owner": "nlgranger",
             "repo": "SeqTools",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "delayedcall",
+              "lazy-evaluation",
+              "library",
+              "machine-learning",
+              "mapping",
+              "on-the-fly",
+              "pipeline",
+              "preprocessing",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1178,12 +2088,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python libraries and tools for running applications on diverse Grids and clusters",
+            "homepage": "http://gc3pie.readthedocs.org/",
             "id": 40307352,
             "language": "Python",
+            "license": "LGPL-2.1",
             "last_commit": "2023-01-09T17:51:37Z",
+            "open_issues": 235,
             "owner": "gc3pie",
             "repo": "gc3pie",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1194,12 +2109,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruigi is a pipeline specialist, much like his python counterpart, Luigi.",
+            "homepage": null,
             "id": 35401422,
             "language": "R",
+            "license": null,
             "last_commit": "2019-05-26T10:04:11Z",
+            "open_issues": 0,
             "owner": "kirillseva",
             "repo": "ruigi",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1210,12 +2130,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Infrastructure code to support DNA pipeline",
+            "homepage": null,
             "id": 3243327,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2015-05-05T05:15:18Z",
+            "open_issues": 15,
             "owner": "bjpop",
             "repo": "rubra",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1226,12 +2151,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flexible, pragmatic workflow tool.",
+            "homepage": "https://gwf.app/",
             "id": 10866729,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-06T07:28:21Z",
+            "open_issues": 1,
             "owner": "gwforg",
             "repo": "gwf",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "pragmatic",
+              "python",
+              "scientific-computing",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1242,12 +2177,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for constructing simple make-like pipelines in R.",
+            "homepage": "https://kinto-b.github.io/makepipe/",
             "id": 354473951,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2025-01-07T10:35:13Z",
+            "open_issues": 1,
             "owner": "kinto-b",
             "repo": "makepipe",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "make",
+              "pipeline",
+              "r"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1258,12 +2202,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A novel pipeline framework to accelerate bioinformatics analysis",
+            "homepage": null,
             "id": 84706034,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-05T23:55:52Z",
+            "open_issues": 5,
             "owner": "liyao001",
             "repo": "BioQueue",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "bioinformatics",
+              "bioinformatics-pipeline"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1274,12 +2226,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A tool for running bioinformatics workflows locally or in the cloud.",
+            "homepage": null,
             "id": 26979169,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2019-12-13T23:52:49Z",
+            "open_issues": 61,
             "owner": "StanfordBioinformatics",
             "repo": "loom",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1290,12 +2247,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for rapid development of robust data pipelines following a simple design pattern",
+            "homepage": "https://smartpipeline.readthedocs.io",
             "id": 147200043,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2024-02-26T21:30:23Z",
+            "open_issues": 0,
             "owner": "giacbrd",
             "repo": "SmartPipeline",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "data-analysis",
+              "data-analytics",
+              "data-mining",
+              "data-pipelines",
+              "data-processing",
+              "data-science",
+              "dataops",
+              "design-patterns",
+              "etl",
+              "machine-learning",
+              "mlops",
+              "pipeline",
+              "pipeline-framework",
+              "pipelines",
+              "reproducibility",
+              "task-queue",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1306,12 +2286,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An accelerated framework for manipulating and interpreting high-throughput sequencing data",
+            "homepage": null,
             "id": 3996268,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2013-07-09T17:51:34Z",
+            "open_issues": 0,
             "owner": "adaptivegenome",
             "repo": "openge",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1322,12 +2307,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight workflows in bioinformatics:",
+            "homepage": "http://moa.readthedocs.org",
             "id": 265272,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2014-11-05T05:29:18Z",
+            "open_issues": 8,
             "owner": "mfiers",
             "repo": "Moa",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1338,12 +2328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 217596638,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-13T00:49:24Z",
+            "open_issues": 23,
             "owner": "natcap",
             "repo": "taskgraph",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1354,12 +2349,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ClusterJob: An automated system for painless and reproducible massive computational experiments",
+            "homepage": "http://clusterjob.org",
             "id": 31403809,
             "language": "Perl",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-03-26T06:45:19Z",
+            "open_issues": 18,
             "owner": "monajemi",
             "repo": "clusterjob",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1370,12 +2370,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ultra light YAML-based pipeline execution engine",
+            "homepage": null,
             "id": 6226401,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2017-08-30T07:28:10Z",
+            "open_issues": 4,
             "owner": "fstrozzi",
             "repo": "bioruby-pipengine",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1386,12 +2391,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Platform for defining and executing scientific pipelines in distributed environments",
+            "homepage": null,
             "id": 134525023,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-05T16:45:48Z",
+            "open_issues": 3,
             "owner": "It4innovations",
             "repo": "HyperLoom",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "distributed-systems",
+              "hpc",
+              "pipelines",
+              "scheduler",
+              "task",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1402,12 +2419,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A workflow assembler for cancer genome analytics and informatics",
+            "homepage": null,
             "id": 47593467,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2016-11-16T23:00:45Z",
+            "open_issues": 2,
             "owner": "jtaghiyar",
             "repo": "kronos",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1418,12 +2440,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A general framework for microservice based distributed applications",
+            "homepage": null,
             "id": 58353958,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-10T09:54:25Z",
+            "open_issues": 46,
             "owner": "MD-Studio",
             "repo": "MDStudio",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "crossbar",
+              "microservice-framework",
+              "molecular-dynamics",
+              "python",
+              "science",
+              "scientific-computing"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1434,12 +2468,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rapid construction of chemical pipelines in interactive notebooks and cli usage",
+            "homepage": null,
             "id": 846202699,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2024-09-27T06:29:28Z",
+            "open_issues": 1,
             "owner": "EBjerrum",
             "repo": "pdchemchain",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1450,12 +2489,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple tokenised template system for SGE ",
+            "homepage": null,
             "id": 38756525,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-03-01T20:34:42Z",
+            "open_issues": 1,
             "owner": "alastair-droop",
             "repo": "qsubsec",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1466,12 +2510,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎲 Dotflow turns an idea into flow! — Lightweight Python library for execution pipelines",
+            "homepage": "https://dotflow-io.github.io/dotflow/",
             "id": 908417376,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-16T07:16:27Z",
+            "open_issues": 37,
             "owner": "dotflow-io",
             "repo": "dotflow",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "async",
+              "automation",
+              "cron",
+              "etl",
+              "etl-framework",
+              "etl-pipeline",
+              "orchestration",
+              "parallel-processing",
+              "pipeline",
+              "python",
+              "python-library",
+              "python3",
+              "retry",
+              "scheduler",
+              "task-management",
+              "task-runner",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1482,12 +2550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run R Script If Needed",
+            "homepage": null,
             "id": 618746741,
             "language": "R",
+            "license": null,
             "last_commit": "2025-03-26T06:45:21Z",
+            "open_issues": 0,
             "owner": "arni-magnusson",
             "repo": "makeit",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1498,12 +2571,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transparent Assessment Framework for Reproducible Research",
+            "homepage": null,
             "id": 350338804,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-17T04:25:24Z",
+            "open_issues": 4,
             "owner": "ices-tools-prod",
             "repo": "TAF",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1514,12 +2592,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conan2 lightweight workflow manager",
+            "homepage": null,
             "id": 2695514,
             "language": "Java",
+            "license": null,
             "last_commit": "2014-08-04T15:44:41Z",
+            "open_issues": 1,
             "owner": "tburdett",
             "repo": "Conan2",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         }
@@ -1536,12 +2619,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.",
+            "homepage": "https://windmill.dev",
             "id": 488804911,
             "language": "Rust",
-            "last_commit": "2026-08-28T21:43:02Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T01:01:26Z",
+            "open_issues": 832,
             "owner": "windmill-labs",
             "repo": "windmill",
-            "stars": 17711
+            "stars": 17713,
+            "topics": [
+              "low-code",
+              "open-source",
+              "platform",
+              "postgresql",
+              "python",
+              "self-hostable",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1552,12 +2648,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.",
+            "homepage": "https://flyte.org",
             "id": 216628419,
             "language": "Go",
-            "last_commit": "2026-08-28T23:32:53Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:00:10Z",
+            "open_issues": 166,
             "owner": "flyteorg",
             "repo": "flyte",
-            "stars": 7304
+            "stars": 7307,
+            "topics": [
+              "agentic",
+              "ai-agents",
+              "ai-development-tools",
+              "data-analysis",
+              "data-science",
+              "declarative",
+              "fine-tuning",
+              "flyte",
+              "golang",
+              "grpc",
+              "hacktoberfest",
+              "kubernetes",
+              "llm",
+              "machine-learning",
+              "mlops",
+              "orchestration-engine",
+              "production",
+              "python",
+              "scale",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1568,12 +2690,37 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Build data pipelines, the easy way 🛠️",
+            "homepage": "https://orchest.readthedocs.io/en/stable/",
             "id": 265911693,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-06T09:48:26Z",
+            "open_issues": 130,
             "owner": "orchest",
             "repo": "orchest",
-            "stars": 4132
+            "stars": 4132,
+            "topics": [
+              "airflow",
+              "cloud",
+              "dag",
+              "data-pipelines",
+              "data-science",
+              "deployment",
+              "docker",
+              "etl",
+              "etl-pipeline",
+              "ide",
+              "jupyter",
+              "jupyterlab",
+              "kubernetes",
+              "machine-learning",
+              "notebooks",
+              "orchest",
+              "pipelines",
+              "python",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1584,12 +2731,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Infra / AI Orchestration / AI Control Plane",
+            "homepage": "https://polyaxon.com",
             "id": 77383688,
             "language": "MDX",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:15:50Z",
+            "open_issues": 126,
             "owner": "polyaxon",
             "repo": "polyaxon",
-            "stars": 3726
+            "stars": 3726,
+            "topics": [
+              "agents",
+              "artificial-intelligence",
+              "data-science",
+              "deep-learning",
+              "harness",
+              "hyperparameter-optimization",
+              "jupyter",
+              "jupyterlab",
+              "k8s",
+              "keras",
+              "kubernetes",
+              "machine-learning",
+              "mlops",
+              "notebook",
+              "pipelines",
+              "pytorch",
+              "reinforcement-learning",
+              "sandbox",
+              "tensorflow",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1600,12 +2773,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Polyglot workflows without leaving the comfort of your technology stack.",
+            "homepage": "https://www.activeworkflow.org",
             "id": 185592724,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-03T09:13:22Z",
+            "open_issues": 2,
             "owner": "automaticmode",
             "repo": "active_workflow",
-            "stars": 865
+            "stars": 865,
+            "topics": [
+              "activeworkflow",
+              "agents",
+              "data-engineering",
+              "data-ops",
+              "event-driven",
+              "ifttt",
+              "orchestration-framework",
+              "scheduler",
+              "scheduling",
+              "self-hosted",
+              "services-platform",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1616,12 +2807,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "piper - a distributed workflow engine",
+            "homepage": null,
             "id": 60993650,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-09T02:18:16Z",
+            "open_issues": 9,
             "owner": "runabol",
             "repo": "piper",
-            "stars": 499
+            "stars": 499,
+            "topics": [
+              "apache2",
+              "ffmpeg",
+              "java",
+              "pipeline",
+              "springboot",
+              "video",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1632,12 +2836,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Fireworks Workflow Management Repo.",
+            "homepage": "https://materialsproject.github.io/fireworks",
             "id": 7507548,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T22:20:39Z",
+            "open_issues": 74,
             "owner": "materialsproject",
             "repo": "fireworks",
-            "stars": 425
+            "stars": 425,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1648,12 +2857,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Joyful visual programming for Python",
+            "homepage": "https://docs.flojoy.ai",
             "id": 468777940,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-30T07:43:33Z",
+            "open_issues": 12,
             "owner": "flojoy-ai",
             "repo": "studio",
-            "stars": 276
+            "stars": 276,
+            "topics": [
+              "python",
+              "visual-programming",
+              "visual-scripting"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1664,12 +2882,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "User friendly and open source platform for workflow creation and monitoring",
+            "homepage": null,
             "id": 635244653,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-06T16:03:23Z",
+            "open_issues": 28,
             "owner": "Tauffer-Consulting",
             "repo": "domino",
-            "stars": 209
+            "stars": 209,
+            "topics": [
+              "ai",
+              "airflow",
+              "containers",
+              "data",
+              "gui",
+              "kubernetes",
+              "open-source",
+              "python",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1680,12 +2913,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "REANA: Reusable research data analysis platform",
+            "homepage": "https://docs.reana.io",
             "id": 79105450,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-20T18:04:15Z",
+            "open_issues": 103,
             "owner": "reanahub",
             "repo": "reana",
-            "stars": 152
+            "stars": 152,
+            "topics": [
+              "containers",
+              "cwl",
+              "kubernetes",
+              "reproducible-research",
+              "reproducible-workflows",
+              "research-data",
+              "reusable-science"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1696,12 +2942,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MLOps simplified. One-stop AI delivery platform, all the features you need. ",
+            "homepage": "https://omegaml.github.io/omegaml/",
             "id": 161178225,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:50:44Z",
+            "open_issues": 99,
             "owner": "omegaml",
             "repo": "omegaml",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "celery",
+              "data-science",
+              "deploy",
+              "docker-image",
+              "genai",
+              "jupyter-notebook",
+              "machine-learning",
+              "mlops",
+              "productized",
+              "pytorch",
+              "scikit-learn",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1712,12 +2978,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "boost data pipeline's tangibility, enhance research productivity, reduce work anxiety",
+            "homepage": "https://geoweaver.dev",
             "id": 144723662,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T04:53:32Z",
+            "open_issues": 44,
             "owner": "ESIPFed",
             "repo": "Geoweaver",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "ai",
+              "earth-science",
+              "esip-lab",
+              "pipeline",
+              "pipeline-framework",
+              "productivity",
+              "scientific-computing",
+              "tangibility",
+              "workflow",
+              "workflow-engine",
+              "workflow-management",
+              "workflow-tool"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1728,12 +3012,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Butler is a framework for running scientific workflows on public and academic clouds.",
+            "homepage": null,
             "id": 41483730,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-02-10T08:51:46Z",
+            "open_issues": 4,
             "owner": "yakneens",
             "repo": "butler",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "bioinformatics",
+              "cloud",
+              "docker",
+              "python",
+              "science",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1744,12 +3040,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SUSHI: Supporting User for SHell script Integration",
+            "homepage": null,
             "id": 42638492,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:42:50Z",
+            "open_issues": 0,
             "owner": "uzh",
             "repo": "sushi",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1760,12 +3061,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workflow management system for the automated and distributed analysis of large-scale experimental data.",
+            "homepage": null,
             "id": 112472370,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2024-10-03T17:01:00Z",
+            "open_issues": 2,
             "owner": "klugem",
             "repo": "watchdog",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "big-data-analytics",
+              "bioinformatics",
+              "bioinformatics-pipeline",
+              "cluster-computing",
+              "rna-seq-analysis",
+              "workflow-management-system"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         }
@@ -1782,12 +3095,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for the CWL standards. Use https://cwl.discourse.group/ for support 😊",
+            "homepage": "https://www.commonwl.org",
             "id": 24454775,
             "language": "Common Workflow Language",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-15T20:12:33Z",
+            "open_issues": 241,
             "owner": "common-workflow-language",
             "repo": "common-workflow-language",
-            "stars": 1480
+            "stars": 1480,
+            "topics": [
+              "common-workflow-language",
+              "commonwl",
+              "containers",
+              "cwl",
+              "science",
+              "sciworkflows",
+              "workflow",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1798,12 +3125,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Specification for the Workflow Description Language (WDL).",
+            "homepage": "https://www.openwdl.org/",
             "id": 5254429,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T21:55:13Z",
+            "open_issues": 69,
             "owner": "openwdl",
             "repo": "wdl",
-            "stars": 856
+            "stars": 856,
+            "topics": [
+              "bioinformatics",
+              "cloud",
+              "openwdl",
+              "reproducibility",
+              "reproducible-science",
+              "wdl",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1814,12 +3154,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An experimental programming language for data flow",
+            "homepage": null,
             "id": 163543441,
             "language": "Nim",
+            "license": "MIT",
             "last_commit": "2019-10-18T20:14:14Z",
+            "open_issues": 2,
             "owner": "calebwin",
             "repo": "pipelines",
-            "stars": 371
+            "stars": 371,
+            "topics": [
+              "compiler",
+              "language",
+              "nim",
+              "parallel",
+              "pipeline",
+              "pipelines",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         }
@@ -1836,12 +3189,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "lakeFS - Data version control for your data lake | Git for data",
+            "homepage": "https://docs.lakefs.io",
             "id": 208038454,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T13:41:32Z",
+            "open_issues": 439,
             "owner": "treeverse",
             "repo": "lakeFS",
-            "stars": 5499
+            "stars": 5499,
+            "topics": [
+              "apache-spark",
+              "apache-sparksql",
+              "aws-s3",
+              "azure-blob-storage",
+              "azure-storage",
+              "data-engineering",
+              "data-lake",
+              "data-quality",
+              "data-version-control",
+              "data-versioning",
+              "datalake",
+              "datalakes",
+              "git-for-data",
+              "go",
+              "golang",
+              "google-cloud-storage",
+              "hadoop-filesystem",
+              "lakefs",
+              "object-storage"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1852,12 +3230,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nessie: Transactional Catalog for Data Lakes with Git-like semantics",
+            "homepage": "https://projectnessie.org",
             "id": 254450741,
             "language": "Java",
-            "last_commit": "2026-08-28T22:04:50Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:50:01Z",
+            "open_issues": 164,
             "owner": "projectnessie",
             "repo": "nessie",
-            "stars": 1497
+            "stars": 1497,
+            "topics": [
+              "aws-lambda",
+              "data",
+              "git",
+              "iceberg",
+              "java",
+              "spark"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         }
@@ -1874,12 +3264,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A better notebook for Scala (and more)",
+            "homepage": "https://polynote.org",
             "id": 165446099,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-27T00:05:24Z",
+            "open_issues": 231,
             "owner": "polynote",
             "repo": "polynote",
-            "stars": 4598
+            "stars": 4598,
+            "topics": [
+              "notebook",
+              "scala"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1890,12 +3288,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️",
+            "homepage": "https://docs.ploomber.io",
             "id": 235190220,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-29T22:02:03Z",
+            "open_issues": 110,
             "owner": "ploomber",
             "repo": "ploomber",
-            "stars": 3621
+            "stars": 3621,
+            "topics": [
+              "data-engineering",
+              "data-science",
+              "jupyter",
+              "jupyter-notebooks",
+              "machine-learning",
+              "mlops",
+              "notebooks",
+              "papermill",
+              "pipelines",
+              "pycharm",
+              "vscode",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         }
@@ -1912,12 +3328,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+            "homepage": "https://pathway.com",
             "id": 571186647,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T05:31:40Z",
+            "open_issues": 35,
             "owner": "pathwaycom",
             "repo": "pathway",
-            "stars": 62374
+            "stars": 62374,
+            "topics": [
+              "batch-processing",
+              "data-analytics",
+              "data-pipelines",
+              "data-processing",
+              "dataflow",
+              "etl",
+              "etl-framework",
+              "iot-analytics",
+              "kafka",
+              "machine-learning-algorithms",
+              "pathway",
+              "python",
+              "real-time",
+              "rust",
+              "stream-processing",
+              "streaming",
+              "time-series-analysis"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1928,12 +3367,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",
+            "homepage": "https://cadenceworkflow.io",
             "id": 82700090,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:55:26Z",
+            "open_issues": 201,
             "owner": "cadence-workflow",
             "repo": "cadence",
-            "stars": 9423
+            "stars": 9423,
+            "topics": [
+              "cadence",
+              "distributed-systems",
+              "golang",
+              "java",
+              "orchestration-engine",
+              "service-bus",
+              "service-fabric",
+              "services-platform",
+              "uber",
+              "workflow-automation",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1944,12 +3400,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.",
+            "homepage": "https://getbruin.com/docs/bruin/",
             "id": 674225653,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:08:48Z",
+            "open_issues": 60,
             "owner": "bruin-data",
             "repo": "bruin",
-            "stars": 1678
+            "stars": 1679,
+            "topics": [
+              "analytics",
+              "bigquery",
+              "data-analysis",
+              "data-ingestion",
+              "data-modeling",
+              "data-pipelines",
+              "data-platform",
+              "data-transformation",
+              "python",
+              "snowflake",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1960,12 +3433,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dataform is a framework for managing SQL based data operations in BigQuery",
+            "homepage": "https://cloud.google.com/dataform/docs",
             "id": 147217097,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:24:59Z",
+            "open_issues": 111,
             "owner": "dataform-co",
             "repo": "dataform",
-            "stars": 995
+            "stars": 995,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -1976,12 +3454,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Substation is a toolkit for routing, normalizing, and enriching security event and audit logs.",
+            "homepage": "https://substation.readme.io",
             "id": 481983343,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-01-20T18:53:05Z",
+            "open_issues": 3,
             "owner": "brexhq",
             "repo": "substation",
-            "stars": 405
+            "stars": 405,
+            "topics": [
+              "automation",
+              "aws",
+              "logging",
+              "monitoring",
+              "observability",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         }
@@ -1998,12 +3488,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workflow Engine for Kubernetes",
+            "homepage": "https://argo-workflows.readthedocs.io/",
             "id": 100982449,
             "language": "Go",
-            "last_commit": "2026-08-28T20:09:07Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:33:55Z",
+            "open_issues": 1254,
             "owner": "argoproj",
             "repo": "argo-workflows",
-            "stars": 16945
+            "stars": 16945,
+            "topics": [
+              "airflow",
+              "argo",
+              "argo-workflows",
+              "batch-processing",
+              "cloud-native",
+              "cncf",
+              "dag",
+              "data-engineering",
+              "gitops",
+              "hacktoberfest",
+              "k8s",
+              "knative",
+              "kubernetes",
+              "machine-learning",
+              "mlops",
+              "pipelines",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -2014,12 +3528,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform",
+            "homepage": "https://ovh.github.io/cds/",
             "id": 70572539,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T14:21:42Z",
+            "open_issues": 159,
             "owner": "ovh",
             "repo": "cds",
-            "stars": 4837
+            "stars": 4837,
+            "topics": [
+              "automation",
+              "continuous-delivery",
+              "continuous-deployment",
+              "continuous-integration",
+              "devops",
+              "devops-workflow",
+              "golang",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         }
@@ -2036,12 +3564,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 Just a command runner",
+            "homepage": "https://just.systems",
             "id": 61349723,
             "language": "Rust",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-20T23:01:29Z",
+            "open_issues": 171,
             "owner": "casey",
             "repo": "just",
-            "stars": 35531
+            "stars": 35534,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -2052,12 +3585,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI task management & automation tool",
+            "homepage": "http://pydoit.org",
             "id": 16851127,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-12T12:57:06Z",
+            "open_issues": 94,
             "owner": "pydoit",
             "repo": "doit",
-            "stars": 2084
+            "stars": 2084,
+            "topics": [
+              "build-automation",
+              "build-system",
+              "build-tool",
+              "cli",
+              "data-pipeline",
+              "data-science",
+              "hacktoberfest",
+              "python",
+              "task-runner",
+              "workflow",
+              "workflow-automation",
+              "workflow-management"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -2068,12 +3619,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shake build system",
+            "homepage": "http://shakebuild.com",
             "id": 8417201,
             "language": "Haskell",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-19T17:04:24Z",
+            "open_issues": 203,
             "owner": "ndmitchell",
             "repo": "shake",
-            "stars": 801
+            "stars": 802,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -2084,12 +3640,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build, test, deploy, iterate - Dev and prod tool for data science pipelines",
+            "homepage": null,
             "id": 176159274,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-13T17:00:28Z",
+            "open_issues": 8,
             "owner": "prodmodel",
             "repo": "prodmodel",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "build-automation",
+              "build-system",
+              "build-tool",
+              "data",
+              "data-science",
+              "dataeng",
+              "dataengineering",
+              "datascience",
+              "production",
+              "productivity"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         }
@@ -2106,12 +3678,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool for automated generation of computational workflows.",
+            "homepage": "https://ape-framework.readthedocs.io",
             "id": 227861653,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-06T00:08:54Z",
+            "open_issues": 12,
             "owner": "Workflomics",
             "repo": "ape",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "automated-pipeline",
+              "java",
+              "program-synthesis",
+              "workflow-synthesis"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         }
@@ -2128,12 +3710,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supporting infrastructure to run scientific experiments without a scientific workflow management system.",
+            "homepage": "http://gems-uff.github.io/noworkflow",
             "id": 12629378,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-13T20:50:59Z",
+            "open_issues": 51,
             "owner": "gems-uff",
             "repo": "noworkflow",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         }
@@ -2150,12 +3737,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome open source workflow engines",
+            "homepage": null,
             "id": 35958325,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-04-06T08:20:52Z",
+            "open_issues": 71,
             "owner": "meirwah",
             "repo": "awesome-workflow-engines",
-            "stars": 7916
+            "stars": 7916,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -2166,12 +3758,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome ETL frameworks, libraries, and software.",
+            "homepage": null,
             "id": 43790983,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-01T06:27:21Z",
+            "open_issues": 11,
             "owner": "pawl",
             "repo": "awesome-etl",
-            "stars": 3586
+            "stars": 3586,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "etl"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -2182,12 +3783,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a curated list of awesome streaming frameworks, applications, etc",
+            "homepage": "https://manuzhang.github.io/awesome-streaming",
             "id": 28163761,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T02:04:33Z",
+            "license": null,
+            "last_commit": "2026-08-29T01:30:42Z",
+            "open_issues": 5,
             "owner": "manuzhang",
             "repo": "awesome-streaming",
-            "stars": 3009
+            "stars": 3009,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "stream-processing"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         },
@@ -2198,12 +3809,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for the CWL standards. Use https://cwl.discourse.group/ for support 😊",
+            "homepage": "https://www.commonwl.org",
             "id": 24454775,
             "language": "Common Workflow Language",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-15T20:12:33Z",
+            "open_issues": 241,
             "owner": "common-workflow-language",
             "repo": "common-workflow-language",
-            "stars": 1480
+            "stars": 1480,
+            "topics": [
+              "common-workflow-language",
+              "commonwl",
+              "containers",
+              "cwl",
+              "science",
+              "sciworkflows",
+              "workflow",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T23:42:16.737Z"
         }
@@ -2212,15 +3837,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:42:16.737Z",
+    "last_updated": "2026-08-29T04:15:55.214Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin",
+      "homepage": null,
       "id": 22013111,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-04T07:45:32Z",
+      "open_issues": 34,
       "owner": "pditommaso",
       "repo": "awesome-pipeline",
-      "stars": 6625
+      "stars": 6625,
+      "topics": [
+        "awesome-list",
+        "workflow"
+      ]
     },
     "original_repository_sha": "348f3ae346a586f61b5264c0859e25f57557ea42",
     "enhanced_repository": "enhansome/enhansome-pipeline",
